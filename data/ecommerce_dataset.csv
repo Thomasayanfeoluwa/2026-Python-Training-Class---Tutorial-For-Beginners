@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price,discount_percent,total_amount,city,payment_method,order_status
+462,1085,2025-01-01,Running Shoes,Beauty,1,222.94,20,178.35,Port Harcourt,Bank Transfer,Delivered
+83,1193,2025-01-01,Laptop Stand,Sports,1,61.44,5,58.37,Ibadan,Card,Delivered
+760,1174,2025-01-01,Bluetooth Speaker,Clothing,4,498.37,10,1794.13,Lagos,Bank Transfer,Delivered
+297,1112,2025-01-02,Smart Watch,Home & Kitchen,5,19.33,5,91.82,Kano,Wallet,Cancelled
+170,1169,2025-01-02,Yoga Mat,Beauty,1,209.89,15,178.41,Ibadan,Cash on Delivery,Delivered
+719,1101,2025-01-03,Smart Watch,Clothing,2,341.56,15,580.65,Kano,Cash on Delivery,Delivered
+844,1050,2025-01-03,Coffee Maker,Beauty,1,286.55,5,272.22,Lagos,Card,Delivered
+603,1079,2025-01-04,Running Shoes,Home & Kitchen,4,400.78,0,1603.12,Abuja,Card,Processing
+438,1237,2025-01-05,Laptop Stand,Beauty,5,69.12,15,293.76,Port Harcourt,Cash on Delivery,Delivered
+916,1026,2025-01-05,Bluetooth Speaker,Beauty,3,399.94,0,1199.82,Ibadan,Card,Delivered
+880,1190,2025-01-05,Cotton T-Shirt,Electronics,4,220.22,0,880.88,Abuja,Card,Delivered
+78,1151,2025-01-05,Smart Watch,Electronics,2,297.69,20,476.3,Abuja,Card,Delivered
+142,1215,2025-01-06,Wireless Headphones,Sports,2,402.43,10,724.37,Abuja,Bank Transfer,Delivered
+68,1106,2025-01-07,Laptop Stand,Electronics,2,38.47,15,65.4,Ibadan,Bank Transfer,Delivered
+745,1175,2025-01-07,Face Moisturizer,Electronics,4,185.11,5,703.42,Ibadan,Cash on Delivery,Shipped
+621,1155,2025-01-08,Smart Watch,Beauty,3,335.09,20,804.22,Lagos,Card,Delivered
+897,1213,2025-01-08,Laptop Stand,Beauty,3,272.1,10,734.67,Abuja,Wallet,Delivered
+35,1107,2025-01-08,Laptop Stand,Beauty,5,15.26,0,76.3,Port Harcourt,Wallet,Delivered
+411,1031,2025-01-08,Face Moisturizer,Electronics,1,384.75,0,384.75,Port Harcourt,Wallet,Delivered
+746,1077,2025-01-08,Face Moisturizer,Electronics,2,139.76,20,223.62,Ibadan,Cash on Delivery,Delivered
+774,1247,2025-01-09,Cotton T-Shirt,Beauty,4,296.53,0,1186.12,Abuja,Card,Delivered
+405,1066,2025-01-10,Face Moisturizer,Clothing,3,480.07,5,1368.2,Port Harcourt,Wallet,Delivered
+114,1245,2025-01-10,Python Programming Book,Clothing,3,492.44,20,1181.86,Abuja,Wallet,Processing
+529,1111,2025-01-10,Face Moisturizer,Sports,5,371.87,0,1859.35,Port Harcourt,Card,Cancelled
+162,1098,2025-01-10,Laptop Stand,Sports,4,444.41,20,1422.11,Abuja,Cash on Delivery,Processing
+429,1193,2025-01-11,Python Programming Book,Beauty,1,296.27,15,251.83,Ibadan,Bank Transfer,Processing
+630,1089,2025-01-11,Laptop Stand,Clothing,2,496.1,20,793.76,Lagos,Bank Transfer,Delivered
+396,1129,2025-01-12,Wireless Headphones,Electronics,5,441.71,15,1877.27,Port Harcourt,Bank Transfer,Delivered
+210,1152,2025-01-12,Python Programming Book,Beauty,4,243.37,5,924.81,Port Harcourt,Cash on Delivery,Delivered
+120,1013,2025-01-12,Laptop Stand,Books,1,30.06,20,24.05,Port Harcourt,Cash on Delivery,Delivered
+503,1250,2025-01-13,Cotton T-Shirt,Sports,5,73.22,5,347.8,Abuja,Card,Delivered
+467,1200,2025-01-13,Coffee Maker,Books,1,477.07,10,429.36,Abuja,Cash on Delivery,Shipped
+2,1211,2025-01-13,Face Moisturizer,Clothing,4,444.34,15,1510.76,Kano,Card,Shipped
+500,1087,2025-01-13,Running Shoes,Home & Kitchen,3,147.64,10,398.63,Port Harcourt,Card,Delivered
+69,1185,2025-01-13,Smart Watch,Books,1,189.64,0,189.64,Port Harcourt,Cash on Delivery,Delivered
+838,1017,2025-01-13,Wireless Headphones,Books,1,301.19,10,271.07,Lagos,Wallet,Delivered
+740,1131,2025-01-14,Running Shoes,Clothing,5,76.0,20,304.0,Ibadan,Cash on Delivery,Delivered
+628,1046,2025-01-15,Python Programming Book,Electronics,2,346.22,5,657.82,Port Harcourt,Wallet,Shipped
+134,1126,2025-01-16,Running Shoes,Beauty,3,192.62,0,577.86,Abuja,Wallet,Delivered
+680,1018,2025-01-17,Cotton T-Shirt,Home & Kitchen,5,112.11,15,476.47,Port Harcourt,Card,Delivered
+622,1249,2025-01-17,Bluetooth Speaker,Books,3,64.8,5,184.68,Ibadan,Cash on Delivery,Delivered
+93,1092,2025-01-18,Smart Watch,Clothing,5,160.69,15,682.93,Kano,Cash on Delivery,Delivered
+548,1211,2025-01-18,Yoga Mat,Sports,3,391.29,20,939.1,Port Harcourt,Bank Transfer,Delivered
+991,1163,2025-01-19,Cotton T-Shirt,Home & Kitchen,2,39.56,15,67.25,Lagos,Bank Transfer,Delivered
+219,1132,2025-01-19,Wireless Headphones,Home & Kitchen,3,329.93,20,791.83,Ibadan,Card,Delivered
+55,1002,2025-01-19,Face Moisturizer,Beauty,3,31.88,15,81.29,Kano,Wallet,Processing
+12,1222,2025-01-20,Yoga Mat,Books,5,422.58,10,1901.61,Lagos,Bank Transfer,Delivered
+646,1101,2025-01-20,Yoga Mat,Books,2,167.56,10,301.61,Kano,Cash on Delivery,Delivered
+537,1021,2025-01-21,Coffee Maker,Home & Kitchen,3,177.76,0,533.28,Ibadan,Cash on Delivery,Delivered
+17,1068,2025-01-21,Coffee Maker,Books,3,163.81,10,442.29,Ibadan,Bank Transfer,Delivered
+475,1213,2025-01-21,Laptop Stand,Clothing,4,167.55,5,636.69,Port Harcourt,Card,Shipped
+653,1083,2025-01-21,Bluetooth Speaker,Home & Kitchen,2,57.09,10,102.76,Abuja,Wallet,Delivered
+850,1226,2025-01-22,Smart Watch,Home & Kitchen,4,68.02,5,258.48,Ibadan,Bank Transfer,Shipped
+816,1075,2025-01-22,Laptop Stand,Beauty,5,343.41,0,1717.05,Abuja,Card,Shipped
+257,1082,2025-01-22,Python Programming Book,Beauty,4,172.06,0,688.24,Ibadan,Bank Transfer,Delivered
+385,1096,2025-01-23,Laptop Stand,Books,1,106.4,15,90.44,Port Harcourt,Bank Transfer,Delivered
+606,1118,2025-01-23,Laptop Stand,Home & Kitchen,3,389.42,0,1168.26,Port Harcourt,Card,Delivered
+974,1194,2025-01-23,Python Programming Book,Home & Kitchen,3,253.85,5,723.47,Kano,Cash on Delivery,Cancelled
+696,1209,2025-01-24,Cotton T-Shirt,Sports,2,104.23,15,177.19,Port Harcourt,Cash on Delivery,Delivered
+970,1204,2025-01-25,Python Programming Book,Clothing,1,92.75,15,78.84,Port Harcourt,Bank Transfer,Shipped
+309,1201,2025-01-25,Coffee Maker,Sports,2,258.57,0,517.14,Kano,Cash on Delivery,Delivered
+301,1070,2025-01-25,Coffee Maker,Sports,2,371.9,15,632.23,Port Harcourt,Card,Delivered
+359,1168,2025-01-25,Wireless Headphones,Beauty,1,195.74,0,195.74,Kano,Wallet,Delivered
+336,1107,2025-01-26,Smart Watch,Electronics,5,287.8,5,1367.05,Ibadan,Bank Transfer,Shipped
+423,1191,2025-01-27,Smart Watch,Home & Kitchen,4,312.21,15,1061.51,Abuja,Bank Transfer,Shipped
+530,1141,2025-01-27,Coffee Maker,Electronics,5,207.54,0,1037.7,Kano,Bank Transfer,Processing
+697,1019,2025-01-28,Face Moisturizer,Books,4,118.19,5,449.12,Kano,Bank Transfer,Delivered
+584,1178,2025-01-28,Yoga Mat,Home & Kitchen,1,423.23,5,402.07,Lagos,Card,Shipped
+166,1171,2025-01-29,Python Programming Book,Clothing,5,361.64,10,1627.38,Kano,Wallet,Shipped
+508,1147,2025-01-30,Running Shoes,Sports,2,166.39,20,266.22,Ibadan,Bank Transfer,Delivered
+139,1221,2025-01-30,Wireless Headphones,Home & Kitchen,2,389.12,10,700.42,Port Harcourt,Wallet,Delivered
+591,1174,2025-01-30,Wireless Headphones,Electronics,5,127.71,0,638.55,Ibadan,Card,Delivered
+262,1051,2025-01-31,Running Shoes,Electronics,1,83.72,10,75.35,Kano,Bank Transfer,Delivered
+876,1167,2025-02-01,Coffee Maker,Books,3,49.56,15,126.38,Abuja,Cash on Delivery,Delivered
+367,1042,2025-02-01,Face Moisturizer,Sports,3,434.13,15,1107.03,Abuja,Bank Transfer,Delivered
+229,1087,2025-02-01,Wireless Headphones,Beauty,3,233.01,15,594.18,Abuja,Wallet,Delivered
+179,1116,2025-02-01,Yoga Mat,Clothing,5,75.84,5,360.24,Kano,Card,Delivered
+194,1010,2025-02-02,Wireless Headphones,Beauty,2,169.42,0,338.84,Ibadan,Bank Transfer,Shipped
+792,1248,2025-02-02,Bluetooth Speaker,Books,3,332.79,0,998.37,Ibadan,Bank Transfer,Shipped
+535,1008,2025-02-02,Bluetooth Speaker,Home & Kitchen,3,215.46,0,646.38,Ibadan,Card,Processing
+482,1075,2025-02-03,Face Moisturizer,Home & Kitchen,5,410.97,5,1952.11,Kano,Card,Delivered
+565,1225,2025-02-03,Wireless Headphones,Home & Kitchen,5,167.04,15,709.92,Lagos,Wallet,Processing
+479,1218,2025-02-04,Yoga Mat,Sports,4,270.62,10,974.23,Kano,Bank Transfer,Delivered
+764,1060,2025-02-04,Face Moisturizer,Beauty,5,474.84,15,2018.07,Abuja,Cash on Delivery,Processing
+903,1156,2025-02-04,Face Moisturizer,Clothing,2,484.69,10,872.44,Ibadan,Bank Transfer,Delivered
+1000,1125,2025-02-05,Face Moisturizer,Home & Kitchen,3,334.64,10,903.53,Kano,Cash on Delivery,Processing
+28,1111,2025-02-05,Python Programming Book,Beauty,5,497.78,15,2115.56,Lagos,Card,Delivered
+926,1023,2025-02-06,Wireless Headphones,Sports,5,201.84,10,908.28,Abuja,Bank Transfer,Delivered
+526,1115,2025-02-06,Wireless Headphones,Electronics,2,158.22,5,300.62,Abuja,Wallet,Processing
+136,1243,2025-02-06,Smart Watch,Clothing,2,63.55,0,127.1,Kano,Card,Delivered
+966,1027,2025-02-06,Face Moisturizer,Books,3,339.7,20,815.28,Kano,Bank Transfer,Delivered
+564,1048,2025-02-07,Wireless Headphones,Beauty,1,316.48,15,269.01,Abuja,Wallet,Delivered
+211,1038,2025-02-07,Wireless Headphones,Sports,2,497.4,20,795.84,Kano,Cash on Delivery,Delivered
+557,1039,2025-02-07,Smart Watch,Sports,4,456.06,15,1550.6,Port Harcourt,Wallet,Delivered
+318,1104,2025-02-08,Bluetooth Speaker,Beauty,4,272.74,5,1036.41,Ibadan,Cash on Delivery,Processing
+728,1222,2025-02-08,Cotton T-Shirt,Clothing,1,243.28,10,218.95,Port Harcourt,Wallet,Delivered
+639,1154,2025-02-09,Yoga Mat,Sports,4,35.2,0,140.8,Kano,Wallet,Delivered
+105,1020,2025-02-09,Face Moisturizer,Home & Kitchen,4,481.97,15,1638.7,Lagos,Card,Processing
+778,1188,2025-02-09,Running Shoes,Beauty,1,60.61,20,48.49,Kano,Bank Transfer,Delivered
+507,1073,2025-02-09,Bluetooth Speaker,Electronics,3,461.71,20,1108.1,Ibadan,Card,Delivered
+929,1046,2025-02-11,Yoga Mat,Beauty,3,392.14,15,999.96,Kano,Card,Processing
+125,1198,2025-02-12,Smart Watch,Electronics,5,489.18,10,2201.31,Kano,Card,Delivered
+562,1106,2025-02-12,Python Programming Book,Electronics,1,308.93,0,308.93,Lagos,Bank Transfer,Delivered
+750,1092,2025-02-13,Cotton T-Shirt,Beauty,1,465.54,20,372.43,Ibadan,Cash on Delivery,Cancelled
+829,1230,2025-02-13,Running Shoes,Books,5,142.47,15,605.5,Kano,Wallet,Delivered
+610,1110,2025-02-13,Yoga Mat,Electronics,5,104.37,15,443.57,Lagos,Wallet,Shipped
+753,1202,2025-02-13,Python Programming Book,Home & Kitchen,1,66.51,20,53.21,Ibadan,Wallet,Shipped
+26,1035,2025-02-13,Yoga Mat,Beauty,4,188.81,15,641.95,Port Harcourt,Wallet,Delivered
+847,1210,2025-02-14,Smart Watch,Home & Kitchen,1,218.24,15,185.5,Abuja,Cash on Delivery,Processing
+158,1076,2025-02-14,Python Programming Book,Sports,3,156.48,20,375.55,Lagos,Bank Transfer,Delivered
+353,1138,2025-02-14,Smart Watch,Clothing,2,430.9,0,861.8,Abuja,Card,Shipped
+188,1054,2025-02-15,Bluetooth Speaker,Electronics,2,480.01,10,864.02,Lagos,Card,Delivered
+893,1015,2025-02-15,Wireless Headphones,Home & Kitchen,3,67.58,10,182.47,Kano,Card,Delivered
+761,1242,2025-02-15,Wireless Headphones,Clothing,1,31.65,0,31.65,Port Harcourt,Cash on Delivery,Delivered
+732,1172,2025-02-15,Coffee Maker,Home & Kitchen,3,297.03,20,712.87,Lagos,Card,Processing
+801,1153,2025-02-15,Face Moisturizer,Clothing,1,115.12,20,92.1,Kano,Cash on Delivery,Delivered
+780,1018,2025-02-16,Laptop Stand,Home & Kitchen,5,298.77,10,1344.46,Ibadan,Wallet,Delivered
+946,1181,2025-02-16,Cotton T-Shirt,Books,1,288.6,15,245.31,Kano,Bank Transfer,Delivered
+661,1209,2025-02-17,Wireless Headphones,Books,1,27.07,10,24.36,Port Harcourt,Card,Delivered
+885,1002,2025-02-17,Wireless Headphones,Sports,5,479.77,0,2398.85,Lagos,Card,Delivered
+995,1161,2025-02-18,Yoga Mat,Beauty,3,219.8,10,593.46,Lagos,Wallet,Delivered
+231,1019,2025-02-19,Running Shoes,Books,3,163.16,20,391.58,Abuja,Cash on Delivery,Processing
+456,1017,2025-02-19,Smart Watch,Home & Kitchen,3,445.11,20,1068.26,Lagos,Bank Transfer,Delivered
+560,1163,2025-02-19,Smart Watch,Beauty,5,353.68,10,1591.56,Kano,Cash on Delivery,Delivered
+159,1050,2025-02-20,Yoga Mat,Electronics,3,299.26,15,763.11,Port Harcourt,Cash on Delivery,Delivered
+428,1121,2025-02-20,Cotton T-Shirt,Sports,5,427.45,20,1709.8,Lagos,Wallet,Processing
+89,1246,2025-02-20,Coffee Maker,Electronics,4,103.89,5,394.78,Kano,Card,Processing
+985,1049,2025-02-21,Bluetooth Speaker,Sports,3,322.43,20,773.83,Abuja,Bank Transfer,Shipped
+212,1178,2025-02-22,Python Programming Book,Electronics,4,340.55,5,1294.09,Lagos,Bank Transfer,Delivered
+755,1053,2025-02-22,Python Programming Book,Electronics,3,69.76,0,209.28,Kano,Cash on Delivery,Delivered
+75,1082,2025-02-22,Bluetooth Speaker,Sports,4,427.49,10,1538.96,Port Harcourt,Bank Transfer,Cancelled
+782,1149,2025-02-23,Smart Watch,Electronics,4,210.25,5,798.95,Abuja,Card,Cancelled
+921,1245,2025-02-23,Laptop Stand,Clothing,5,355.37,20,1421.48,Kano,Card,Delivered
+34,1070,2025-02-23,Bluetooth Speaker,Books,3,324.04,0,972.12,Abuja,Bank Transfer,Delivered
+251,1105,2025-02-24,Python Programming Book,Clothing,1,137.57,5,130.69,Kano,Cash on Delivery,Delivered
+824,1244,2025-02-24,Smart Watch,Clothing,4,395.46,0,1581.84,Lagos,Bank Transfer,Delivered
+806,1189,2025-02-24,Cotton T-Shirt,Sports,4,464.48,20,1486.34,Lagos,Card,Shipped
+906,1161,2025-02-24,Wireless Headphones,Beauty,4,150.16,15,510.54,Kano,Card,Processing
+827,1050,2025-02-25,Cotton T-Shirt,Home & Kitchen,4,192.8,5,732.64,Abuja,Wallet,Shipped
+52,1099,2025-02-25,Smart Watch,Clothing,1,83.83,0,83.83,Port Harcourt,Cash on Delivery,Delivered
+832,1027,2025-02-26,Laptop Stand,Home & Kitchen,2,253.33,5,481.33,Kano,Wallet,Delivered
+547,1148,2025-02-26,Python Programming Book,Books,3,106.93,10,288.71,Kano,Card,Cancelled
+366,1210,2025-02-26,Running Shoes,Clothing,3,452.95,15,1155.02,Kano,Wallet,Cancelled
+881,1096,2025-02-26,Coffee Maker,Clothing,1,221.23,20,176.98,Ibadan,Bank Transfer,Delivered
+902,1165,2025-02-26,Python Programming Book,Clothing,1,40.93,20,32.74,Port Harcourt,Card,Delivered
+151,1083,2025-02-27,Wireless Headphones,Books,5,206.66,15,878.3,Port Harcourt,Wallet,Shipped
+914,1152,2025-02-27,Bluetooth Speaker,Beauty,5,472.26,10,2125.17,Lagos,Wallet,Delivered
+937,1241,2025-02-27,Running Shoes,Home & Kitchen,1,117.17,10,105.45,Port Harcourt,Cash on Delivery,Delivered
+846,1192,2025-02-28,Python Programming Book,Clothing,1,307.53,10,276.78,Kano,Bank Transfer,Processing
+978,1028,2025-02-28,Laptop Stand,Beauty,3,497.46,20,1193.9,Abuja,Wallet,Delivered
+457,1148,2025-02-28,Laptop Stand,Books,1,390.91,15,332.27,Port Harcourt,Card,Delivered
+542,1158,2025-03-01,Bluetooth Speaker,Beauty,1,337.07,10,303.36,Port Harcourt,Cash on Delivery,Delivered
+42,1163,2025-03-01,Coffee Maker,Books,4,282.43,5,1073.23,Abuja,Card,Delivered
+762,1212,2025-03-01,Laptop Stand,Sports,3,206.62,10,557.87,Ibadan,Card,Processing
+381,1236,2025-03-02,Laptop Stand,Sports,1,210.48,20,168.38,Abuja,Card,Delivered
+176,1088,2025-03-02,Running Shoes,Clothing,3,202.26,10,546.1,Kano,Wallet,Delivered
+392,1204,2025-03-02,Coffee Maker,Clothing,1,477.9,10,430.11,Ibadan,Cash on Delivery,Delivered
+620,1225,2025-03-02,Wireless Headphones,Sports,1,443.58,0,443.58,Kano,Cash on Delivery,Delivered
+888,1135,2025-03-03,Coffee Maker,Books,1,157.86,0,157.86,Port Harcourt,Wallet,Delivered
+851,1233,2025-03-03,Coffee Maker,Home & Kitchen,5,399.43,15,1697.58,Abuja,Card,Cancelled
+450,1225,2025-03-03,Smart Watch,Sports,2,176.27,10,317.29,Abuja,Card,Delivered
+377,1080,2025-03-04,Smart Watch,Books,4,203.37,10,732.13,Lagos,Bank Transfer,Delivered
+418,1040,2025-03-04,Smart Watch,Clothing,1,77.52,20,62.02,Ibadan,Card,Cancelled
+299,1010,2025-03-04,Laptop Stand,Clothing,2,365.34,10,657.61,Lagos,Wallet,Delivered
+486,1093,2025-03-05,Bluetooth Speaker,Beauty,2,461.13,0,922.26,Ibadan,Wallet,Processing
+73,1209,2025-03-05,Yoga Mat,Books,3,246.46,5,702.41,Kano,Card,Delivered
+961,1096,2025-03-05,Laptop Stand,Clothing,1,387.68,20,310.14,Ibadan,Card,Delivered
+96,1137,2025-03-05,Python Programming Book,Beauty,2,146.23,15,248.59,Abuja,Bank Transfer,Delivered
+303,1034,2025-03-06,Smart Watch,Beauty,1,446.11,15,379.19,Ibadan,Cash on Delivery,Shipped
+493,1175,2025-03-06,Laptop Stand,Home & Kitchen,4,398.88,5,1515.74,Ibadan,Cash on Delivery,Delivered
+391,1046,2025-03-07,Yoga Mat,Beauty,4,176.34,5,670.09,Port Harcourt,Bank Transfer,Delivered
+474,1035,2025-03-08,Bluetooth Speaker,Home & Kitchen,3,459.26,20,1102.22,Abuja,Cash on Delivery,Delivered
+940,1085,2025-03-08,Bluetooth Speaker,Electronics,3,488.82,10,1319.81,Abuja,Cash on Delivery,Processing
+329,1013,2025-03-08,Wireless Headphones,Clothing,1,438.21,5,416.3,Lagos,Bank Transfer,Delivered
+618,1150,2025-03-09,Cotton T-Shirt,Beauty,2,397.46,10,715.43,Port Harcourt,Bank Transfer,Processing
+271,1200,2025-03-09,Cotton T-Shirt,Home & Kitchen,2,128.4,0,256.8,Abuja,Wallet,Cancelled
+496,1157,2025-03-10,Face Moisturizer,Beauty,3,224.61,10,606.45,Lagos,Cash on Delivery,Delivered
+905,1048,2025-03-10,Python Programming Book,Books,3,102.79,20,246.7,Kano,Cash on Delivery,Delivered
+681,1082,2025-03-11,Smart Watch,Clothing,4,378.23,15,1285.98,Port Harcourt,Card,Processing
+969,1010,2025-03-12,Cotton T-Shirt,Electronics,5,363.73,10,1636.78,Abuja,Card,Delivered
+953,1196,2025-03-12,Face Moisturizer,Beauty,4,433.43,15,1473.66,Abuja,Card,Delivered
+781,1213,2025-03-12,Face Moisturizer,Books,5,185.75,0,928.75,Ibadan,Bank Transfer,Cancelled
+911,1237,2025-03-13,Python Programming Book,Electronics,4,416.71,5,1583.5,Abuja,Wallet,Cancelled
+763,1025,2025-03-13,Smart Watch,Books,5,168.73,10,759.28,Kano,Wallet,Shipped
+168,1046,2025-03-13,Yoga Mat,Sports,1,499.38,5,474.41,Abuja,Wallet,Shipped
+280,1212,2025-03-14,Coffee Maker,Books,1,429.19,15,364.81,Kano,Card,Shipped
+943,1210,2025-03-14,Cotton T-Shirt,Books,5,85.26,20,341.04,Port Harcourt,Wallet,Delivered
+465,1112,2025-03-14,Smart Watch,Clothing,1,476.6,5,452.77,Ibadan,Card,Delivered
+234,1067,2025-03-14,Smart Watch,Clothing,4,198.41,0,793.64,Ibadan,Card,Delivered
+1,1080,2025-03-14,Python Programming Book,Beauty,1,370.99,15,315.34,Kano,Bank Transfer,Delivered
+717,1223,2025-03-14,Cotton T-Shirt,Sports,3,164.23,5,468.06,Kano,Cash on Delivery,Processing
+177,1076,2025-03-15,Yoga Mat,Sports,4,458.5,15,1558.9,Lagos,Card,Delivered
+667,1077,2025-03-15,Wireless Headphones,Books,3,413.33,10,1115.99,Port Harcourt,Cash on Delivery,Delivered
+623,1207,2025-03-15,Face Moisturizer,Beauty,1,417.94,5,397.04,Port Harcourt,Card,Delivered
+796,1048,2025-03-16,Smart Watch,Clothing,2,195.51,5,371.47,Kano,Cash on Delivery,Delivered
+175,1101,2025-03-16,Running Shoes,Electronics,4,301.65,20,965.28,Lagos,Bank Transfer,Delivered
+979,1231,2025-03-17,Python Programming Book,Clothing,2,248.28,10,446.9,Kano,Bank Transfer,Delivered
+494,1066,2025-03-17,Coffee Maker,Home & Kitchen,4,113.86,15,387.12,Port Harcourt,Bank Transfer,Delivered
+864,1180,2025-03-17,Cotton T-Shirt,Books,4,29.65,15,100.81,Port Harcourt,Cash on Delivery,Shipped
+625,1099,2025-03-17,Cotton T-Shirt,Beauty,4,217.51,20,696.03,Abuja,Wallet,Delivered
+690,1181,2025-03-18,Cotton T-Shirt,Beauty,4,330.23,0,1320.92,Kano,Bank Transfer,Processing
+313,1088,2025-03-18,Wireless Headphones,Books,1,496.61,20,397.29,Ibadan,Bank Transfer,Delivered
+996,1053,2025-03-18,Yoga Mat,Clothing,4,322.59,5,1225.84,Ibadan,Bank Transfer,Delivered
+276,1194,2025-03-18,Wireless Headphones,Home & Kitchen,3,428.15,20,1027.56,Port Harcourt,Cash on Delivery,Shipped
+487,1136,2025-03-19,Yoga Mat,Sports,2,177.28,5,336.83,Ibadan,Bank Transfer,Processing
+725,1073,2025-03-20,Laptop Stand,Beauty,4,94.26,0,377.04,Port Harcourt,Bank Transfer,Processing
+40,1094,2025-03-20,Laptop Stand,Sports,4,419.79,0,1679.16,Kano,Card,Shipped
+545,1112,2025-03-21,Smart Watch,Clothing,5,19.69,0,98.45,Lagos,Cash on Delivery,Delivered
+957,1041,2025-03-21,Smart Watch,Sports,3,120.71,10,325.92,Kano,Wallet,Delivered
+570,1052,2025-03-21,Smart Watch,Books,3,206.03,5,587.19,Port Harcourt,Wallet,Processing
+752,1038,2025-03-21,Running Shoes,Clothing,1,62.63,15,53.24,Lagos,Cash on Delivery,Delivered
+772,1191,2025-03-22,Python Programming Book,Electronics,5,196.56,5,933.66,Port Harcourt,Wallet,Processing
+567,1177,2025-03-22,Smart Watch,Clothing,2,205.84,10,370.51,Kano,Card,Shipped
+549,1132,2025-03-22,Cotton T-Shirt,Clothing,3,431.71,5,1230.37,Lagos,Wallet,Shipped
+656,1050,2025-03-22,Face Moisturizer,Home & Kitchen,3,43.08,10,116.32,Kano,Bank Transfer,Delivered
+884,1041,2025-03-23,Smart Watch,Home & Kitchen,1,496.84,10,447.16,Abuja,Card,Cancelled
+662,1146,2025-03-23,Bluetooth Speaker,Clothing,4,329.61,10,1186.6,Lagos,Cash on Delivery,Delivered
+739,1088,2025-03-23,Coffee Maker,Sports,4,96.31,15,327.45,Kano,Wallet,Processing
+587,1054,2025-03-23,Cotton T-Shirt,Sports,4,384.69,10,1384.88,Kano,Wallet,Delivered
+351,1153,2025-03-24,Coffee Maker,Sports,3,97.44,0,292.32,Lagos,Cash on Delivery,Processing
+432,1022,2025-03-24,Yoga Mat,Sports,4,191.91,15,652.49,Lagos,Card,Delivered
+502,1134,2025-03-24,Bluetooth Speaker,Electronics,4,234.55,15,797.47,Abuja,Card,Delivered
+36,1009,2025-03-24,Wireless Headphones,Home & Kitchen,1,112.44,20,89.95,Ibadan,Bank Transfer,Delivered
+320,1011,2025-03-24,Coffee Maker,Electronics,4,143.86,0,575.44,Abuja,Card,Delivered
+246,1070,2025-03-25,Coffee Maker,Clothing,1,249.86,20,199.89,Port Harcourt,Cash on Delivery,Shipped
+416,1111,2025-03-25,Wireless Headphones,Sports,4,476.97,10,1717.09,Lagos,Bank Transfer,Delivered
+30,1104,2025-03-26,Laptop Stand,Beauty,3,162.37,20,389.69,Ibadan,Card,Delivered
+694,1216,2025-03-26,Yoga Mat,Sports,5,488.04,5,2318.19,Kano,Card,Processing
+216,1249,2025-03-26,Python Programming Book,Home & Kitchen,2,100.74,5,191.41,Kano,Card,Delivered
+305,1168,2025-03-27,Coffee Maker,Beauty,3,71.75,0,215.25,Abuja,Bank Transfer,Delivered
+387,1066,2025-03-27,Running Shoes,Sports,1,203.11,15,172.64,Kano,Wallet,Delivered
+115,1073,2025-03-28,Smart Watch,Books,3,151.23,5,431.01,Abuja,Cash on Delivery,Delivered
+573,1124,2025-03-29,Wireless Headphones,Home & Kitchen,2,227.53,15,386.8,Port Harcourt,Card,Delivered
+374,1205,2025-03-29,Yoga Mat,Clothing,2,194.8,10,350.64,Lagos,Bank Transfer,Delivered
+972,1096,2025-03-30,Yoga Mat,Electronics,3,102.07,20,244.97,Abuja,Bank Transfer,Delivered
+260,1007,2025-03-30,Bluetooth Speaker,Home & Kitchen,3,235.78,10,636.61,Port Harcourt,Bank Transfer,Delivered
+273,1234,2025-03-30,Cotton T-Shirt,Books,1,299.2,15,254.32,Lagos,Wallet,Processing
+103,1048,2025-03-30,Running Shoes,Books,5,452.63,0,2263.15,Lagos,Bank Transfer,Delivered
+688,1073,2025-03-31,Smart Watch,Books,3,495.29,20,1188.7,Abuja,Bank Transfer,Delivered
+612,1082,2025-03-31,Wireless Headphones,Electronics,3,217.17,15,553.78,Lagos,Cash on Delivery,Shipped
+834,1060,2025-03-31,Python Programming Book,Books,1,483.05,15,410.59,Ibadan,Cash on Delivery,Shipped
+328,1107,2025-03-31,Yoga Mat,Sports,1,123.33,5,117.16,Abuja,Card,Processing
+655,1031,2025-03-31,Wireless Headphones,Electronics,3,271.58,15,692.53,Lagos,Wallet,Delivered
+878,1110,2025-03-31,Wireless Headphones,Clothing,4,436.99,5,1660.56,Abuja,Cash on Delivery,Delivered
+127,1012,2025-04-01,Smart Watch,Beauty,1,398.9,20,319.12,Ibadan,Wallet,Delivered
+424,1114,2025-04-01,Yoga Mat,Sports,3,275.76,5,785.92,Abuja,Card,Delivered
+918,1069,2025-04-01,Wireless Headphones,Electronics,4,276.31,20,884.19,Lagos,Bank Transfer,Shipped
+426,1219,2025-04-02,Yoga Mat,Beauty,1,134.1,20,107.28,Ibadan,Cash on Delivery,Delivered
+748,1063,2025-04-02,Smart Watch,Electronics,2,110.64,20,177.02,Lagos,Cash on Delivery,Cancelled
+445,1185,2025-04-02,Wireless Headphones,Sports,3,230.43,20,553.03,Kano,Cash on Delivery,Cancelled
+88,1233,2025-04-02,Running Shoes,Home & Kitchen,2,176.04,0,352.08,Port Harcourt,Bank Transfer,Delivered
+277,1018,2025-04-02,Wireless Headphones,Home & Kitchen,3,313.37,0,940.11,Kano,Card,Delivered
+945,1009,2025-04-03,Yoga Mat,Beauty,1,105.61,0,105.61,Lagos,Card,Delivered
+451,1215,2025-04-03,Yoga Mat,Sports,5,270.12,10,1215.54,Ibadan,Wallet,Delivered
+27,1053,2025-04-03,Running Shoes,Home & Kitchen,3,479.63,0,1438.89,Ibadan,Wallet,Delivered
+637,1207,2025-04-03,Wireless Headphones,Electronics,2,235.99,10,424.78,Lagos,Wallet,Delivered
+477,1235,2025-04-04,Laptop Stand,Beauty,5,237.86,10,1070.37,Ibadan,Bank Transfer,Delivered
+117,1005,2025-04-04,Face Moisturizer,Books,1,377.49,15,320.87,Lagos,Bank Transfer,Delivered
+378,1066,2025-04-04,Smart Watch,Books,4,166.37,10,598.93,Lagos,Wallet,Shipped
+930,1056,2025-04-04,Yoga Mat,Clothing,3,228.58,15,582.88,Lagos,Card,Delivered
+59,1052,2025-04-04,Python Programming Book,Beauty,4,297.36,5,1129.97,Kano,Wallet,Delivered
+941,1182,2025-04-04,Face Moisturizer,Books,4,125.82,10,452.95,Lagos,Cash on Delivery,Shipped
+835,1245,2025-04-04,Wireless Headphones,Beauty,5,482.15,0,2410.75,Port Harcourt,Card,Delivered
+853,1027,2025-04-04,Python Programming Book,Home & Kitchen,5,149.35,0,746.75,Ibadan,Wallet,Delivered
+558,1216,2025-04-05,Coffee Maker,Sports,5,109.24,5,518.89,Abuja,Bank Transfer,Delivered
+153,1228,2025-04-06,Python Programming Book,Electronics,5,339.09,0,1695.45,Ibadan,Bank Transfer,Delivered
+116,1119,2025-04-06,Smart Watch,Beauty,3,369.54,10,997.76,Port Harcourt,Cash on Delivery,Processing
+947,1093,2025-04-06,Running Shoes,Sports,5,457.1,0,2285.5,Lagos,Cash on Delivery,Delivered
+289,1192,2025-04-07,Laptop Stand,Clothing,3,401.61,0,1204.83,Ibadan,Bank Transfer,Delivered
+230,1004,2025-04-09,Running Shoes,Books,1,262.88,20,210.3,Kano,Bank Transfer,Delivered
+676,1093,2025-04-09,Face Moisturizer,Electronics,4,377.63,10,1359.47,Lagos,Card,Processing
+365,1145,2025-04-10,Face Moisturizer,Beauty,1,61.26,0,61.26,Port Harcourt,Bank Transfer,Processing
+711,1072,2025-04-10,Laptop Stand,Home & Kitchen,4,381.38,5,1449.24,Abuja,Card,Shipped
+470,1188,2025-04-10,Smart Watch,Home & Kitchen,5,111.78,20,447.12,Lagos,Wallet,Delivered
+754,1219,2025-04-11,Wireless Headphones,Electronics,5,313.59,5,1489.55,Kano,Card,Shipped
+10,1029,2025-04-12,Wireless Headphones,Sports,1,66.77,20,53.42,Ibadan,Card,Delivered
+611,1024,2025-04-12,Coffee Maker,Electronics,5,85.44,10,384.48,Abuja,Wallet,Delivered
+703,1137,2025-04-12,Cotton T-Shirt,Books,1,415.99,5,395.19,Port Harcourt,Bank Transfer,Delivered
+964,1059,2025-04-12,Yoga Mat,Clothing,2,167.16,5,317.6,Kano,Card,Delivered
+839,1213,2025-04-12,Wireless Headphones,Sports,1,440.29,20,352.23,Kano,Card,Delivered
+634,1044,2025-04-14,Yoga Mat,Clothing,2,366.64,15,623.29,Port Harcourt,Card,Delivered
+936,1149,2025-04-14,Coffee Maker,Electronics,5,488.11,20,1952.44,Kano,Bank Transfer,Delivered
+541,1150,2025-04-14,Bluetooth Speaker,Books,4,54.94,15,186.8,Ibadan,Card,Cancelled
+890,1121,2025-04-14,Face Moisturizer,Home & Kitchen,2,32.11,20,51.38,Lagos,Cash on Delivery,Delivered
+370,1132,2025-04-15,Wireless Headphones,Home & Kitchen,4,110.15,0,440.6,Port Harcourt,Wallet,Delivered
+110,1081,2025-04-15,Python Programming Book,Home & Kitchen,4,225.64,5,857.43,Port Harcourt,Bank Transfer,Processing
+163,1141,2025-04-15,Laptop Stand,Books,3,101.92,0,305.76,Abuja,Cash on Delivery,Delivered
+287,1179,2025-04-15,Wireless Headphones,Books,1,408.45,0,408.45,Lagos,Bank Transfer,Shipped
+345,1094,2025-04-15,Smart Watch,Sports,5,56.1,10,252.45,Abuja,Wallet,Delivered
+258,1023,2025-04-16,Python Programming Book,Books,1,465.89,0,465.89,Kano,Card,Delivered
+642,1009,2025-04-16,Wireless Headphones,Sports,5,395.86,20,1583.44,Port Harcourt,Cash on Delivery,Shipped
+290,1078,2025-04-17,Face Moisturizer,Electronics,3,304.36,0,913.08,Ibadan,Bank Transfer,Delivered
+49,1084,2025-04-17,Smart Watch,Sports,4,380.11,0,1520.44,Kano,Bank Transfer,Delivered
+100,1085,2025-04-18,Laptop Stand,Beauty,1,313.98,5,298.28,Kano,Bank Transfer,Processing
+190,1226,2025-04-18,Running Shoes,Electronics,2,275.02,20,440.03,Abuja,Card,Delivered
+425,1079,2025-04-20,Bluetooth Speaker,Beauty,3,91.0,15,232.05,Lagos,Bank Transfer,Processing
+464,1164,2025-04-20,Smart Watch,Beauty,3,71.58,0,214.74,Lagos,Wallet,Shipped
+813,1132,2025-04-20,Running Shoes,Electronics,4,293.7,15,998.58,Ibadan,Bank Transfer,Shipped
+737,1016,2025-04-20,Coffee Maker,Electronics,4,111.42,5,423.4,Ibadan,Card,Delivered
+543,1232,2025-04-20,Coffee Maker,Clothing,1,331.2,0,331.2,Ibadan,Bank Transfer,Delivered
+233,1152,2025-04-20,Smart Watch,Clothing,1,64.68,15,54.98,Port Harcourt,Cash on Delivery,Delivered
+221,1028,2025-04-21,Laptop Stand,Clothing,1,261.24,15,222.05,Abuja,Card,Delivered
+341,1013,2025-04-21,Laptop Stand,Beauty,4,16.11,10,58.0,Port Harcourt,Cash on Delivery,Delivered
+483,1209,2025-04-21,Bluetooth Speaker,Clothing,2,373.39,15,634.76,Port Harcourt,Card,Delivered
+986,1013,2025-04-23,Face Moisturizer,Electronics,4,34.91,5,132.66,Port Harcourt,Cash on Delivery,Delivered
+455,1154,2025-04-23,Running Shoes,Books,3,470.61,20,1129.46,Port Harcourt,Bank Transfer,Processing
+349,1192,2025-04-23,Running Shoes,Beauty,1,83.19,0,83.19,Kano,Card,Shipped
+805,1173,2025-04-23,Running Shoes,Sports,4,415.13,0,1660.52,Ibadan,Wallet,Delivered
+767,1143,2025-04-23,Python Programming Book,Beauty,4,93.47,15,317.8,Abuja,Bank Transfer,Delivered
+227,1113,2025-04-24,Cotton T-Shirt,Electronics,5,130.57,10,587.56,Kano,Cash on Delivery,Delivered
+705,1184,2025-04-24,Face Moisturizer,Beauty,1,23.02,20,18.42,Kano,Card,Delivered
+415,1123,2025-04-24,Laptop Stand,Home & Kitchen,1,491.36,10,442.22,Kano,Cash on Delivery,Shipped
+569,1078,2025-04-25,Smart Watch,Clothing,4,21.38,15,72.69,Lagos,Bank Transfer,Delivered
+765,1110,2025-04-25,Running Shoes,Clothing,2,292.66,10,526.79,Abuja,Wallet,Delivered
+321,1165,2025-04-25,Yoga Mat,Home & Kitchen,2,34.75,0,69.5,Kano,Bank Transfer,Delivered
+31,1136,2025-04-26,Face Moisturizer,Beauty,3,346.96,15,884.75,Abuja,Card,Delivered
+81,1226,2025-04-26,Face Moisturizer,Clothing,5,254.42,10,1144.89,Port Harcourt,Wallet,Delivered
+726,1120,2025-04-26,Cotton T-Shirt,Sports,1,446.23,20,356.98,Kano,Bank Transfer,Processing
+528,1024,2025-04-26,Running Shoes,Home & Kitchen,1,189.5,0,189.5,Port Harcourt,Cash on Delivery,Delivered
+934,1207,2025-04-27,Python Programming Book,Clothing,4,87.19,15,296.45,Lagos,Bank Transfer,Delivered
+98,1037,2025-04-27,Bluetooth Speaker,Electronics,4,320.55,5,1218.09,Abuja,Cash on Delivery,Delivered
+708,1138,2025-04-28,Coffee Maker,Clothing,3,248.23,15,632.99,Lagos,Card,Processing
+131,1003,2025-04-28,Wireless Headphones,Home & Kitchen,3,463.1,5,1319.84,Lagos,Cash on Delivery,Delivered
+874,1147,2025-04-28,Coffee Maker,Clothing,1,406.4,10,365.76,Port Harcourt,Bank Transfer,Delivered
+917,1027,2025-04-29,Wireless Headphones,Sports,3,277.38,0,832.14,Abuja,Card,Shipped
+109,1129,2025-04-29,Python Programming Book,Home & Kitchen,3,368.88,20,885.31,Kano,Bank Transfer,Delivered
+894,1013,2025-04-29,Python Programming Book,Home & Kitchen,5,39.31,5,186.72,Abuja,Cash on Delivery,Processing
+77,1245,2025-05-01,Coffee Maker,Sports,2,455.68,0,911.36,Ibadan,Cash on Delivery,Delivered
+831,1088,2025-05-01,Python Programming Book,Home & Kitchen,2,389.7,20,623.52,Port Harcourt,Card,Shipped
+771,1074,2025-05-01,Cotton T-Shirt,Home & Kitchen,4,485.73,10,1748.63,Ibadan,Card,Processing
+614,1131,2025-05-01,Wireless Headphones,Books,2,467.12,0,934.24,Ibadan,Bank Transfer,Shipped
+768,1003,2025-05-01,Cotton T-Shirt,Clothing,3,489.53,15,1248.3,Ibadan,Bank Transfer,Delivered
+757,1144,2025-05-01,Cotton T-Shirt,Electronics,4,379.59,15,1290.61,Kano,Bank Transfer,Delivered
+433,1225,2025-05-02,Laptop Stand,Clothing,5,208.38,5,989.8,Lagos,Wallet,Shipped
+468,1238,2025-05-02,Wireless Headphones,Books,3,90.15,5,256.93,Kano,Card,Delivered
+912,1135,2025-05-03,Yoga Mat,Books,1,488.19,20,390.55,Abuja,Card,Delivered
+174,1089,2025-05-03,Laptop Stand,Clothing,4,353.43,5,1343.03,Ibadan,Cash on Delivery,Delivered
+601,1248,2025-05-03,Smart Watch,Electronics,4,13.68,10,49.25,Port Harcourt,Cash on Delivery,Delivered
+86,1159,2025-05-04,Yoga Mat,Beauty,4,319.11,5,1212.62,Lagos,Wallet,Delivered
+293,1124,2025-05-04,Wireless Headphones,Home & Kitchen,5,165.64,5,786.79,Lagos,Cash on Delivery,Processing
+933,1225,2025-05-04,Wireless Headphones,Clothing,2,27.24,15,46.31,Ibadan,Card,Delivered
+859,1066,2025-05-05,Running Shoes,Electronics,4,348.16,5,1323.01,Abuja,Bank Transfer,Delivered
+360,1243,2025-05-05,Cotton T-Shirt,Electronics,4,263.34,10,948.02,Port Harcourt,Wallet,Processing
+256,1082,2025-05-06,Smart Watch,Sports,1,121.84,0,121.84,Ibadan,Bank Transfer,Processing
+255,1086,2025-05-07,Laptop Stand,Home & Kitchen,4,344.8,5,1310.24,Port Harcourt,Wallet,Shipped
+241,1084,2025-05-09,Python Programming Book,Books,1,10.81,5,10.27,Kano,Bank Transfer,Delivered
+245,1089,2025-05-09,Face Moisturizer,Sports,4,259.0,15,880.6,Ibadan,Wallet,Delivered
+169,1127,2025-05-09,Face Moisturizer,Clothing,2,155.22,20,248.35,Ibadan,Cash on Delivery,Delivered
+568,1176,2025-05-09,Wireless Headphones,Home & Kitchen,2,345.86,0,691.72,Lagos,Cash on Delivery,Delivered
+417,1118,2025-05-09,Laptop Stand,Sports,5,45.19,15,192.06,Ibadan,Bank Transfer,Delivered
+596,1011,2025-05-09,Running Shoes,Sports,5,210.89,5,1001.73,Ibadan,Bank Transfer,Delivered
+220,1041,2025-05-09,Bluetooth Speaker,Home & Kitchen,5,478.12,10,2151.54,Ibadan,Wallet,Delivered
+41,1083,2025-05-09,Coffee Maker,Books,1,494.68,5,469.95,Port Harcourt,Cash on Delivery,Delivered
+671,1024,2025-05-09,Smart Watch,Electronics,5,203.3,0,1016.5,Kano,Cash on Delivery,Delivered
+165,1179,2025-05-10,Laptop Stand,Books,3,177.54,0,532.62,Abuja,Wallet,Delivered
+446,1105,2025-05-10,Yoga Mat,Beauty,4,130.18,15,442.61,Abuja,Bank Transfer,Delivered
+552,1010,2025-05-10,Face Moisturizer,Clothing,2,73.39,10,132.1,Lagos,Card,Delivered
+373,1057,2025-05-12,Bluetooth Speaker,Books,3,489.82,5,1395.99,Kano,Card,Delivered
+33,1068,2025-05-12,Yoga Mat,Beauty,1,200.04,10,180.04,Kano,Cash on Delivery,Delivered
+490,1097,2025-05-12,Smart Watch,Electronics,4,399.28,15,1357.55,Kano,Card,Shipped
+858,1158,2025-05-14,Bluetooth Speaker,Electronics,1,237.2,0,237.2,Abuja,Cash on Delivery,Delivered
+46,1004,2025-05-15,Running Shoes,Electronics,5,229.64,20,918.56,Abuja,Wallet,Cancelled
+149,1216,2025-05-16,Wireless Headphones,Home & Kitchen,5,341.87,20,1367.48,Lagos,Bank Transfer,Processing
+195,1142,2025-05-16,Coffee Maker,Sports,5,455.44,15,1935.62,Lagos,Card,Processing
+678,1142,2025-05-16,Laptop Stand,Sports,1,190.27,15,161.73,Ibadan,Card,Delivered
+691,1001,2025-05-16,Running Shoes,Beauty,5,229.88,10,1034.46,Abuja,Card,Delivered
+92,1011,2025-05-17,Bluetooth Speaker,Clothing,5,229.62,5,1090.7,Abuja,Bank Transfer,Shipped
+279,1184,2025-05-18,Wireless Headphones,Books,1,388.74,20,310.99,Lagos,Wallet,Delivered
+700,1006,2025-05-18,Coffee Maker,Home & Kitchen,1,370.02,15,314.52,Port Harcourt,Wallet,Delivered
+141,1182,2025-05-18,Coffee Maker,Home & Kitchen,5,372.32,10,1675.44,Kano,Cash on Delivery,Delivered
+235,1065,2025-05-18,Yoga Mat,Clothing,3,39.66,10,107.08,Abuja,Bank Transfer,Shipped
+76,1006,2025-05-18,Wireless Headphones,Books,3,257.35,15,656.24,Port Harcourt,Wallet,Delivered
+702,1015,2025-05-19,Wireless Headphones,Clothing,4,279.95,5,1063.81,Lagos,Card,Delivered
+683,1175,2025-05-19,Yoga Mat,Beauty,5,52.13,5,247.62,Lagos,Bank Transfer,Delivered
+810,1202,2025-05-19,Face Moisturizer,Clothing,5,473.3,15,2011.52,Ibadan,Cash on Delivery,Shipped
+161,1101,2025-05-20,Laptop Stand,Electronics,5,144.66,0,723.3,Lagos,Cash on Delivery,Cancelled
+384,1141,2025-05-20,Wireless Headphones,Books,2,239.14,20,382.62,Kano,Card,Delivered
+802,1150,2025-05-21,Wireless Headphones,Electronics,2,285.71,10,514.28,Kano,Bank Transfer,Delivered
+580,1074,2025-05-21,Running Shoes,Sports,1,173.71,0,173.71,Kano,Cash on Delivery,Shipped
+406,1224,2025-05-22,Bluetooth Speaker,Books,3,329.73,5,939.73,Lagos,Bank Transfer,Shipped
+383,1089,2025-05-22,Python Programming Book,Home & Kitchen,5,468.34,20,1873.36,Ibadan,Cash on Delivery,Shipped
+339,1186,2025-05-23,Face Moisturizer,Electronics,2,215.44,20,344.7,Kano,Cash on Delivery,Processing
+333,1216,2025-05-23,Laptop Stand,Clothing,2,204.12,5,387.83,Kano,Cash on Delivery,Delivered
+398,1065,2025-05-24,Smart Watch,Electronics,1,109.02,20,87.22,Lagos,Cash on Delivery,Delivered
+307,1185,2025-05-24,Face Moisturizer,Books,2,349.62,5,664.28,Ibadan,Cash on Delivery,Cancelled
+458,1010,2025-05-24,Python Programming Book,Sports,4,263.65,0,1054.6,Ibadan,Cash on Delivery,Delivered
+793,1243,2025-05-24,Face Moisturizer,Sports,4,281.66,5,1070.31,Kano,Card,Delivered
+819,1134,2025-05-24,Yoga Mat,Sports,4,374.3,15,1272.62,Kano,Bank Transfer,Delivered
+326,1099,2025-05-24,Smart Watch,Beauty,2,18.9,15,32.13,Port Harcourt,Bank Transfer,Delivered
+314,1025,2025-05-24,Wireless Headphones,Electronics,2,296.47,5,563.29,Port Harcourt,Wallet,Delivered
+132,1233,2025-05-25,Running Shoes,Sports,3,413.07,10,1115.29,Kano,Cash on Delivery,Delivered
+324,1067,2025-05-25,Bluetooth Speaker,Beauty,5,335.17,15,1424.47,Abuja,Wallet,Delivered
+43,1190,2025-05-26,Coffee Maker,Books,4,421.14,5,1600.33,Port Harcourt,Cash on Delivery,Delivered
+346,1126,2025-05-26,Yoga Mat,Home & Kitchen,2,445.93,15,758.08,Port Harcourt,Card,Delivered
+777,1084,2025-05-26,Cotton T-Shirt,Sports,3,104.67,10,282.61,Port Harcourt,Wallet,Shipped
+951,1083,2025-05-27,Python Programming Book,Books,1,402.29,5,382.18,Lagos,Bank Transfer,Delivered
+180,1117,2025-05-27,Bluetooth Speaker,Home & Kitchen,3,189.04,0,567.12,Lagos,Wallet,Delivered
+756,1151,2025-05-27,Bluetooth Speaker,Beauty,3,427.67,5,1218.86,Lagos,Cash on Delivery,Delivered
+437,1164,2025-05-28,Face Moisturizer,Sports,3,471.35,5,1343.35,Lagos,Card,Processing
+795,1100,2025-05-28,Yoga Mat,Electronics,3,179.41,20,430.58,Ibadan,Wallet,Shipped
+817,1219,2025-05-29,Face Moisturizer,Books,1,285.71,10,257.14,Abuja,Card,Delivered
+511,1075,2025-05-29,Laptop Stand,Clothing,5,333.38,20,1333.52,Kano,Card,Delivered
+196,1124,2025-05-29,Coffee Maker,Beauty,1,269.48,0,269.48,Kano,Card,Cancelled
+773,1045,2025-05-30,Bluetooth Speaker,Books,1,204.79,10,184.31,Ibadan,Wallet,Delivered
+448,1048,2025-05-30,Python Programming Book,Clothing,5,427.15,10,1922.18,Lagos,Cash on Delivery,Delivered
+734,1066,2025-05-30,Python Programming Book,Books,4,342.97,20,1097.5,Ibadan,Bank Transfer,Processing
+315,1188,2025-05-30,Face Moisturizer,Beauty,2,72.19,10,129.94,Lagos,Card,Delivered
+202,1187,2025-05-31,Bluetooth Speaker,Home & Kitchen,5,168.02,20,672.08,Abuja,Cash on Delivery,Delivered
+855,1014,2025-05-31,Face Moisturizer,Sports,2,438.42,10,789.16,Ibadan,Cash on Delivery,Delivered
+707,1118,2025-05-31,Wireless Headphones,Beauty,1,304.76,0,304.76,Ibadan,Bank Transfer,Processing
+722,1208,2025-06-01,Coffee Maker,Clothing,5,114.02,10,513.09,Abuja,Cash on Delivery,Delivered
+730,1167,2025-06-01,Coffee Maker,Beauty,4,39.15,15,133.11,Kano,Cash on Delivery,Delivered
+729,1029,2025-06-01,Smart Watch,Home & Kitchen,3,468.42,5,1335.0,Port Harcourt,Wallet,Processing
+627,1001,2025-06-02,Yoga Mat,Home & Kitchen,2,255.38,15,434.15,Kano,Bank Transfer,Shipped
+892,1143,2025-06-02,Coffee Maker,Beauty,4,420.36,20,1345.15,Ibadan,Wallet,Delivered
+800,1139,2025-06-03,Python Programming Book,Home & Kitchen,3,200.66,0,601.98,Kano,Wallet,Delivered
+304,1009,2025-06-03,Cotton T-Shirt,Home & Kitchen,5,300.98,5,1429.66,Ibadan,Wallet,Delivered
+24,1072,2025-06-03,Face Moisturizer,Sports,5,304.41,0,1522.05,Lagos,Cash on Delivery,Delivered
+439,1087,2025-06-04,Wireless Headphones,Books,1,449.1,20,359.28,Abuja,Bank Transfer,Processing
+252,1097,2025-06-04,Smart Watch,Books,3,168.02,15,428.45,Lagos,Cash on Delivery,Delivered
+272,1133,2025-06-06,Yoga Mat,Electronics,1,288.91,10,260.02,Lagos,Card,Processing
+807,1117,2025-06-06,Running Shoes,Home & Kitchen,3,302.72,0,908.16,Ibadan,Wallet,Shipped
+449,1138,2025-06-06,Smart Watch,Sports,3,438.54,15,1118.28,Port Harcourt,Wallet,Delivered
+704,1214,2025-06-07,Smart Watch,Home & Kitchen,1,358.16,20,286.53,Lagos,Cash on Delivery,Shipped
+716,1126,2025-06-07,Running Shoes,Clothing,4,265.74,5,1009.81,Abuja,Cash on Delivery,Delivered
+684,1018,2025-06-08,Face Moisturizer,Books,5,96.38,10,433.71,Lagos,Bank Transfer,Delivered
+51,1081,2025-06-08,Running Shoes,Beauty,4,239.97,20,767.9,Abuja,Card,Delivered
+747,1192,2025-06-08,Wireless Headphones,Sports,3,309.14,10,834.68,Lagos,Card,Delivered
+638,1125,2025-06-08,Wireless Headphones,Sports,2,218.14,10,392.65,Port Harcourt,Cash on Delivery,Shipped
+201,1170,2025-06-09,Bluetooth Speaker,Sports,2,128.27,20,205.23,Ibadan,Bank Transfer,Delivered
+686,1182,2025-06-09,Smart Watch,Books,5,413.32,0,2066.6,Ibadan,Bank Transfer,Delivered
+84,1197,2025-06-09,Bluetooth Speaker,Books,5,205.29,5,975.13,Kano,Card,Delivered
+803,1056,2025-06-09,Cotton T-Shirt,Sports,3,380.21,20,912.5,Kano,Cash on Delivery,Shipped
+521,1248,2025-06-09,Wireless Headphones,Electronics,2,447.32,20,715.71,Ibadan,Bank Transfer,Delivered
+95,1240,2025-06-12,Coffee Maker,Beauty,5,13.58,20,54.32,Abuja,Card,Cancelled
+534,1188,2025-06-12,Smart Watch,Books,2,454.47,20,727.15,Ibadan,Cash on Delivery,Delivered
+172,1066,2025-06-12,Coffee Maker,Sports,1,291.69,20,233.35,Port Harcourt,Wallet,Delivered
+629,1191,2025-06-12,Running Shoes,Sports,3,329.82,20,791.57,Abuja,Cash on Delivery,Delivered
+344,1065,2025-06-13,Python Programming Book,Books,3,209.9,15,535.24,Kano,Bank Transfer,Delivered
+178,1180,2025-06-14,Cotton T-Shirt,Sports,1,253.49,5,240.82,Lagos,Cash on Delivery,Delivered
+664,1095,2025-06-14,Laptop Stand,Books,2,92.32,20,147.71,Port Harcourt,Bank Transfer,Delivered
+607,1061,2025-06-14,Face Moisturizer,Books,2,66.7,5,126.73,Abuja,Bank Transfer,Delivered
+579,1069,2025-06-15,Smart Watch,Books,5,319.78,20,1279.12,Port Harcourt,Card,Processing
+310,1151,2025-06-15,Smart Watch,Home & Kitchen,1,495.97,20,396.78,Ibadan,Bank Transfer,Delivered
+830,1122,2025-06-16,Laptop Stand,Clothing,1,88.69,0,88.69,Abuja,Bank Transfer,Shipped
+206,1202,2025-06-16,Bluetooth Speaker,Books,2,285.13,15,484.72,Ibadan,Wallet,Delivered
+137,1244,2025-06-17,Smart Watch,Books,4,340.9,10,1227.24,Port Harcourt,Cash on Delivery,Delivered
+720,1038,2025-06-17,Python Programming Book,Electronics,3,42.38,5,120.78,Kano,Bank Transfer,Delivered
+585,1147,2025-06-17,Yoga Mat,Electronics,3,489.32,15,1247.77,Lagos,Wallet,Shipped
+472,1220,2025-06-17,Smart Watch,Beauty,5,24.73,15,105.1,Lagos,Cash on Delivery,Delivered
+744,1082,2025-06-17,Wireless Headphones,Home & Kitchen,2,37.08,10,66.74,Lagos,Card,Processing
+22,1012,2025-06-18,Laptop Stand,Beauty,2,192.41,0,384.82,Abuja,Cash on Delivery,Processing
+213,1104,2025-06-18,Cotton T-Shirt,Books,4,409.17,5,1554.85,Port Harcourt,Wallet,Cancelled
+666,1207,2025-06-18,Wireless Headphones,Clothing,4,431.79,10,1554.44,Lagos,Cash on Delivery,Shipped
+274,1079,2025-06-19,Face Moisturizer,Sports,5,426.22,10,1917.99,Ibadan,Bank Transfer,Processing
+118,1033,2025-06-19,Laptop Stand,Books,1,179.78,15,152.81,Abuja,Card,Shipped
+654,1053,2025-06-19,Running Shoes,Home & Kitchen,5,85.23,10,383.54,Lagos,Card,Delivered
+713,1222,2025-06-19,Cotton T-Shirt,Clothing,4,285.0,20,912.0,Port Harcourt,Cash on Delivery,Cancelled
+412,1147,2025-06-20,Running Shoes,Electronics,2,439.59,20,703.34,Kano,Bank Transfer,Shipped
+340,1126,2025-06-20,Python Programming Book,Books,5,262.15,20,1048.6,Ibadan,Bank Transfer,Delivered
+769,1029,2025-06-21,Cotton T-Shirt,Home & Kitchen,1,254.33,20,203.46,Lagos,Cash on Delivery,Delivered
+942,1112,2025-06-21,Running Shoes,Beauty,3,34.07,5,97.1,Port Harcourt,Cash on Delivery,Delivered
+907,1072,2025-06-21,Wireless Headphones,Sports,3,482.54,15,1230.48,Port Harcourt,Wallet,Delivered
+354,1104,2025-06-22,Face Moisturizer,Home & Kitchen,3,457.17,15,1165.78,Kano,Card,Shipped
+992,1131,2025-06-22,Face Moisturizer,Electronics,3,412.88,15,1052.84,Abuja,Card,Shipped
+348,1038,2025-06-22,Bluetooth Speaker,Clothing,5,344.46,0,1722.3,Abuja,Bank Transfer,Shipped
+872,1240,2025-06-22,Cotton T-Shirt,Home & Kitchen,2,474.19,0,948.38,Ibadan,Card,Delivered
+491,1048,2025-06-22,Face Moisturizer,Electronics,5,315.13,0,1575.65,Ibadan,Card,Delivered
+857,1212,2025-06-23,Python Programming Book,Electronics,2,265.02,5,503.54,Lagos,Bank Transfer,Delivered
+631,1037,2025-06-23,Running Shoes,Home & Kitchen,4,499.72,10,1798.99,Ibadan,Card,Delivered
+561,1123,2025-06-23,Python Programming Book,Books,3,476.93,0,1430.79,Port Harcourt,Cash on Delivery,Processing
+133,1183,2025-06-23,Bluetooth Speaker,Sports,1,28.12,15,23.9,Kano,Wallet,Delivered
+147,1104,2025-06-23,Cotton T-Shirt,Beauty,1,12.21,15,10.38,Port Harcourt,Cash on Delivery,Processing
+809,1098,2025-06-26,Wireless Headphones,Electronics,2,35.76,10,64.37,Kano,Card,Delivered
+379,1042,2025-06-27,Cotton T-Shirt,Clothing,2,308.28,20,493.25,Port Harcourt,Wallet,Delivered
+209,1057,2025-06-29,Laptop Stand,Clothing,2,224.81,10,404.66,Abuja,Bank Transfer,Delivered
+330,1220,2025-06-29,Python Programming Book,Home & Kitchen,3,134.3,20,322.32,Kano,Cash on Delivery,Delivered
+604,1190,2025-06-29,Coffee Maker,Home & Kitchen,1,421.2,15,358.02,Kano,Card,Processing
+226,1045,2025-06-29,Yoga Mat,Books,2,30.13,15,51.22,Kano,Cash on Delivery,Delivered
+775,1068,2025-06-29,Bluetooth Speaker,Electronics,5,72.75,10,327.38,Ibadan,Card,Delivered
+232,1232,2025-06-30,Python Programming Book,Sports,5,34.97,5,166.11,Abuja,Bank Transfer,Processing
+675,1209,2025-06-30,Cotton T-Shirt,Beauty,4,257.05,15,873.97,Port Harcourt,Bank Transfer,Delivered
+193,1186,2025-07-01,Laptop Stand,Books,4,125.2,15,425.68,Abuja,Wallet,Delivered
+347,1013,2025-07-01,Cotton T-Shirt,Electronics,5,203.55,15,865.09,Abuja,Wallet,Shipped
+973,1210,2025-07-01,Laptop Stand,Clothing,3,62.58,0,187.74,Abuja,Cash on Delivery,Delivered
+498,1098,2025-07-01,Face Moisturizer,Home & Kitchen,2,11.13,10,20.03,Lagos,Wallet,Delivered
+264,1190,2025-07-01,Bluetooth Speaker,Beauty,5,77.72,20,310.88,Kano,Bank Transfer,Processing
+389,1085,2025-07-01,Laptop Stand,Home & Kitchen,5,89.81,5,426.6,Port Harcourt,Bank Transfer,Delivered
+7,1063,2025-07-01,Laptop Stand,Books,1,164.08,10,147.67,Ibadan,Wallet,Shipped
+352,1142,2025-07-02,Wireless Headphones,Beauty,1,107.78,20,86.22,Ibadan,Card,Shipped
+104,1005,2025-07-02,Wireless Headphones,Books,1,363.14,10,326.83,Kano,Cash on Delivery,Delivered
+434,1029,2025-07-03,Coffee Maker,Sports,1,382.41,5,363.29,Kano,Bank Transfer,Delivered
+533,1177,2025-07-04,Running Shoes,Beauty,1,259.38,0,259.38,Abuja,Cash on Delivery,Delivered
+950,1093,2025-07-04,Cotton T-Shirt,Electronics,2,108.91,0,217.82,Ibadan,Cash on Delivery,Shipped
+413,1084,2025-07-05,Wireless Headphones,Books,2,451.8,5,858.42,Abuja,Wallet,Delivered
+515,1228,2025-07-05,Face Moisturizer,Home & Kitchen,5,177.93,5,845.17,Ibadan,Cash on Delivery,Delivered
+82,1072,2025-07-05,Coffee Maker,Beauty,3,270.39,20,648.94,Ibadan,Card,Delivered
+442,1089,2025-07-06,Laptop Stand,Books,2,424.77,0,849.54,Lagos,Bank Transfer,Processing
+80,1191,2025-07-06,Python Programming Book,Home & Kitchen,4,176.89,10,636.8,Port Harcourt,Bank Transfer,Shipped
+380,1233,2025-07-06,Laptop Stand,Clothing,2,294.68,5,559.89,Ibadan,Cash on Delivery,Processing
+861,1015,2025-07-07,Yoga Mat,Books,5,337.48,10,1518.66,Port Harcourt,Cash on Delivery,Delivered
+65,1190,2025-07-07,Coffee Maker,Electronics,3,328.08,15,836.6,Kano,Cash on Delivery,Processing
+556,1055,2025-07-07,Cotton T-Shirt,Electronics,3,340.62,10,919.67,Port Harcourt,Card,Processing
+459,1030,2025-07-08,Coffee Maker,Electronics,5,250.4,20,1001.6,Ibadan,Wallet,Delivered
+825,1125,2025-07-08,Cotton T-Shirt,Sports,4,172.05,10,619.38,Kano,Card,Delivered
+128,1023,2025-07-08,Face Moisturizer,Home & Kitchen,4,51.56,20,164.99,Ibadan,Wallet,Delivered
+441,1082,2025-07-08,Face Moisturizer,Electronics,5,139.62,20,558.48,Ibadan,Bank Transfer,Delivered
+85,1126,2025-07-09,Python Programming Book,Books,4,459.5,5,1746.1,Kano,Bank Transfer,Processing
+910,1157,2025-07-09,Bluetooth Speaker,Electronics,1,356.84,20,285.47,Ibadan,Card,Delivered
+633,1069,2025-07-10,Smart Watch,Beauty,3,56.65,0,169.95,Ibadan,Card,Delivered
+205,1075,2025-07-10,Wireless Headphones,Electronics,3,148.79,5,424.05,Ibadan,Cash on Delivery,Delivered
+270,1127,2025-07-10,Yoga Mat,Books,3,313.87,20,753.29,Ibadan,Cash on Delivery,Delivered
+677,1139,2025-07-10,Face Moisturizer,Sports,3,237.69,5,677.42,Kano,Wallet,Delivered
+659,1106,2025-07-10,Cotton T-Shirt,Books,1,223.8,5,212.61,Abuja,Wallet,Delivered
+520,1108,2025-07-11,Wireless Headphones,Electronics,3,230.32,20,552.77,Abuja,Wallet,Delivered
+727,1025,2025-07-11,Face Moisturizer,Electronics,4,240.28,0,961.12,Port Harcourt,Wallet,Shipped
+915,1195,2025-07-11,Smart Watch,Electronics,3,72.2,15,184.11,Kano,Cash on Delivery,Delivered
+724,1013,2025-07-11,Coffee Maker,Electronics,1,326.68,20,261.34,Ibadan,Wallet,Processing
+517,1088,2025-07-11,Laptop Stand,Electronics,5,342.27,0,1711.35,Ibadan,Bank Transfer,Delivered
+435,1147,2025-07-11,Python Programming Book,Clothing,3,388.45,5,1107.08,Abuja,Bank Transfer,Shipped
+559,1188,2025-07-12,Bluetooth Speaker,Electronics,4,275.62,0,1102.48,Ibadan,Wallet,Shipped
+593,1019,2025-07-12,Coffee Maker,Books,2,151.77,20,242.83,Abuja,Wallet,Delivered
+225,1196,2025-07-12,Coffee Maker,Books,4,60.47,15,205.6,Port Harcourt,Card,Delivered
+67,1214,2025-07-12,Coffee Maker,Electronics,5,383.82,20,1535.28,Abuja,Wallet,Delivered
+90,1246,2025-07-12,Yoga Mat,Home & Kitchen,5,22.16,10,99.72,Ibadan,Bank Transfer,Delivered
+758,1034,2025-07-13,Running Shoes,Electronics,2,411.71,10,741.08,Port Harcourt,Bank Transfer,Delivered
+476,1081,2025-07-13,Laptop Stand,Sports,4,307.98,5,1170.32,Port Harcourt,Card,Delivered
+826,1105,2025-07-14,Cotton T-Shirt,Beauty,1,440.59,20,352.47,Kano,Bank Transfer,Delivered
+18,1039,2025-07-14,Wireless Headphones,Sports,1,373.92,5,355.22,Lagos,Wallet,Delivered
+485,1118,2025-07-14,Yoga Mat,Electronics,3,84.91,10,229.26,Lagos,Bank Transfer,Processing
+505,1005,2025-07-14,Running Shoes,Sports,2,319.82,0,639.64,Lagos,Card,Processing
+597,1225,2025-07-14,Face Moisturizer,Books,3,117.24,5,334.13,Port Harcourt,Cash on Delivery,Processing
+404,1235,2025-07-14,Bluetooth Speaker,Home & Kitchen,5,245.93,20,983.72,Port Harcourt,Bank Transfer,Delivered
+709,1192,2025-07-15,Laptop Stand,Clothing,3,137.49,10,371.22,Ibadan,Wallet,Delivered
+759,1113,2025-07-16,Laptop Stand,Sports,1,267.77,0,267.77,Abuja,Wallet,Delivered
+61,1037,2025-07-16,Running Shoes,Clothing,5,51.22,5,243.3,Abuja,Cash on Delivery,Delivered
+895,1121,2025-07-16,Python Programming Book,Sports,4,419.01,15,1424.63,Ibadan,Bank Transfer,Delivered
+576,1192,2025-07-16,Running Shoes,Electronics,2,167.89,15,285.41,Abuja,Cash on Delivery,Delivered
+317,1245,2025-07-16,Yoga Mat,Sports,4,441.39,15,1500.73,Kano,Wallet,Delivered
+581,1049,2025-07-16,Running Shoes,Electronics,1,129.66,20,103.73,Lagos,Bank Transfer,Shipped
+150,1098,2025-07-18,Face Moisturizer,Home & Kitchen,1,24.51,0,24.51,Lagos,Wallet,Delivered
+395,1128,2025-07-18,Cotton T-Shirt,Books,4,379.22,5,1441.04,Lagos,Card,Delivered
+685,1130,2025-07-18,Coffee Maker,Books,1,95.92,20,76.74,Kano,Cash on Delivery,Delivered
+267,1088,2025-07-18,Python Programming Book,Sports,3,102.28,15,260.81,Lagos,Cash on Delivery,Delivered
+932,1184,2025-07-18,Yoga Mat,Electronics,4,309.99,0,1239.96,Lagos,Card,Delivered
+789,1077,2025-07-18,Laptop Stand,Beauty,3,231.01,20,554.42,Lagos,Cash on Delivery,Processing
+102,1247,2025-07-18,Face Moisturizer,Beauty,1,383.1,0,383.1,Port Harcourt,Card,Delivered
+665,1079,2025-07-19,Python Programming Book,Sports,3,81.96,10,221.29,Abuja,Card,Delivered
+101,1023,2025-07-20,Laptop Stand,Clothing,5,243.98,5,1158.9,Ibadan,Card,Delivered
+976,1201,2025-07-20,Yoga Mat,Clothing,2,259.01,15,440.32,Lagos,Card,Delivered
+988,1231,2025-07-20,Python Programming Book,Home & Kitchen,2,239.81,0,479.62,Lagos,Bank Transfer,Delivered
+38,1154,2025-07-20,Coffee Maker,Books,5,90.24,0,451.2,Lagos,Wallet,Delivered
+770,1012,2025-07-20,Laptop Stand,Beauty,2,251.9,5,478.61,Port Harcourt,Wallet,Shipped
+111,1001,2025-07-20,Face Moisturizer,Electronics,2,281.02,10,505.84,Abuja,Card,Delivered
+766,1038,2025-07-20,Bluetooth Speaker,Sports,4,405.03,10,1458.11,Abuja,Cash on Delivery,Delivered
+469,1223,2025-07-21,Cotton T-Shirt,Beauty,1,281.66,10,253.49,Kano,Wallet,Delivered
+843,1025,2025-07-22,Running Shoes,Beauty,5,246.06,10,1107.27,Kano,Cash on Delivery,Delivered
+555,1178,2025-07-22,Running Shoes,Books,5,148.93,10,670.18,Port Harcourt,Bank Transfer,Shipped
+466,1024,2025-07-22,Cotton T-Shirt,Books,5,246.2,15,1046.35,Kano,Bank Transfer,Processing
+736,1105,2025-07-23,Python Programming Book,Home & Kitchen,4,58.59,5,222.64,Ibadan,Card,Cancelled
+632,1072,2025-07-23,Wireless Headphones,Clothing,2,263.07,10,473.53,Kano,Card,Delivered
+144,1113,2025-07-23,Bluetooth Speaker,Electronics,3,124.92,10,337.28,Kano,Wallet,Processing
+440,1079,2025-07-23,Coffee Maker,Clothing,2,59.19,20,94.7,Kano,Card,Delivered
+237,1237,2025-07-23,Face Moisturizer,Beauty,4,111.44,5,423.47,Port Harcourt,Cash on Delivery,Delivered
+419,1179,2025-07-23,Bluetooth Speaker,Beauty,2,159.19,0,318.38,Kano,Card,Delivered
+254,1085,2025-07-24,Cotton T-Shirt,Beauty,2,245.13,5,465.75,Ibadan,Wallet,Processing
+409,1066,2025-07-24,Cotton T-Shirt,Books,5,133.69,15,568.18,Lagos,Bank Transfer,Delivered
+799,1098,2025-07-25,Running Shoes,Books,2,364.33,0,728.66,Port Harcourt,Cash on Delivery,Shipped
+866,1147,2025-07-25,Bluetooth Speaker,Books,4,265.9,15,904.06,Port Harcourt,Wallet,Delivered
+990,1221,2025-07-25,Smart Watch,Home & Kitchen,4,243.02,10,874.87,Abuja,Cash on Delivery,Delivered
+44,1028,2025-07-25,Yoga Mat,Beauty,2,495.26,10,891.47,Lagos,Bank Transfer,Delivered
+331,1047,2025-07-25,Wireless Headphones,Home & Kitchen,3,309.28,15,788.66,Lagos,Card,Shipped
+316,1069,2025-07-26,Wireless Headphones,Clothing,4,449.68,20,1438.98,Lagos,Card,Delivered
+519,1178,2025-07-26,Smart Watch,Home & Kitchen,3,29.72,15,75.79,Port Harcourt,Wallet,Delivered
+343,1117,2025-07-26,Python Programming Book,Beauty,4,264.91,0,1059.64,Abuja,Bank Transfer,Processing
+327,1213,2025-07-26,Wireless Headphones,Home & Kitchen,2,301.9,0,603.8,Abuja,Card,Delivered
+820,1233,2025-07-27,Smart Watch,Sports,5,427.55,20,1710.2,Lagos,Card,Delivered
+785,1212,2025-07-27,Laptop Stand,Clothing,3,464.12,20,1113.89,Abuja,Bank Transfer,Delivered
+509,1067,2025-07-27,Python Programming Book,Books,2,365.83,0,731.66,Lagos,Wallet,Shipped
+199,1239,2025-07-27,Smart Watch,Home & Kitchen,2,330.19,20,528.3,Ibadan,Card,Shipped
+615,1141,2025-07-28,Laptop Stand,Sports,4,490.6,15,1668.04,Lagos,Cash on Delivery,Delivered
+250,1095,2025-07-28,Smart Watch,Sports,1,422.19,5,401.08,Port Harcourt,Card,Processing
+286,1192,2025-07-29,Bluetooth Speaker,Sports,5,187.15,10,842.18,Lagos,Bank Transfer,Delivered
+338,1082,2025-07-29,Wireless Headphones,Clothing,2,491.87,0,983.74,Ibadan,Wallet,Shipped
+938,1148,2025-07-29,Coffee Maker,Clothing,1,262.72,10,236.45,Port Harcourt,Card,Delivered
+480,1135,2025-07-29,Coffee Maker,Clothing,1,101.75,15,86.49,Kano,Cash on Delivery,Cancelled
+863,1223,2025-07-30,Smart Watch,Sports,1,313.17,5,297.51,Port Harcourt,Wallet,Delivered
+577,1021,2025-07-31,Wireless Headphones,Beauty,5,276.83,15,1176.53,Ibadan,Bank Transfer,Cancelled
+592,1010,2025-07-31,Bluetooth Speaker,Books,5,325.96,5,1548.31,Ibadan,Card,Shipped
+363,1125,2025-08-01,Yoga Mat,Electronics,2,393.65,0,787.3,Kano,Wallet,Delivered
+368,1036,2025-08-01,Smart Watch,Clothing,2,401.07,5,762.03,Ibadan,Cash on Delivery,Shipped
+350,1088,2025-08-01,Python Programming Book,Sports,1,481.16,15,408.99,Kano,Cash on Delivery,Delivered
+247,1069,2025-08-02,Yoga Mat,Electronics,4,173.22,15,588.95,Ibadan,Wallet,Delivered
+72,1196,2025-08-02,Yoga Mat,Sports,1,423.79,10,381.41,Abuja,Card,Delivered
+263,1073,2025-08-03,Laptop Stand,Sports,2,33.21,15,56.46,Kano,Card,Delivered
+527,1005,2025-08-03,Wireless Headphones,Home & Kitchen,5,474.29,0,2371.45,Ibadan,Wallet,Delivered
+695,1177,2025-08-03,Smart Watch,Books,1,437.7,5,415.82,Ibadan,Card,Shipped
+856,1173,2025-08-03,Face Moisturizer,Sports,5,21.75,15,92.44,Lagos,Bank Transfer,Processing
+692,1017,2025-08-03,Python Programming Book,Books,4,202.53,15,688.6,Port Harcourt,Bank Transfer,Delivered
+531,1008,2025-08-04,Wireless Headphones,Clothing,3,285.29,5,813.08,Kano,Cash on Delivery,Delivered
+852,1182,2025-08-04,Cotton T-Shirt,Books,5,420.48,0,2102.4,Abuja,Bank Transfer,Processing
+815,1187,2025-08-05,Coffee Maker,Clothing,4,28.89,5,109.78,Ibadan,Cash on Delivery,Delivered
+471,1101,2025-08-05,Wireless Headphones,Sports,4,134.06,5,509.43,Ibadan,Bank Transfer,Delivered
+928,1149,2025-08-05,Laptop Stand,Home & Kitchen,2,47.94,0,95.88,Port Harcourt,Card,Processing
+862,1208,2025-08-05,Cotton T-Shirt,Books,5,194.6,15,827.05,Abuja,Wallet,Delivered
+636,1192,2025-08-06,Smart Watch,Home & Kitchen,4,165.98,10,597.53,Kano,Cash on Delivery,Shipped
+608,1122,2025-08-06,Bluetooth Speaker,Home & Kitchen,3,201.13,15,512.88,Abuja,Bank Transfer,Delivered
+13,1173,2025-08-07,Python Programming Book,Sports,4,37.23,0,148.92,Lagos,Wallet,Delivered
+171,1094,2025-08-08,Cotton T-Shirt,Beauty,1,77.04,15,65.48,Port Harcourt,Cash on Delivery,Shipped
+551,1012,2025-08-08,Cotton T-Shirt,Clothing,5,337.25,10,1517.62,Port Harcourt,Wallet,Delivered
+849,1039,2025-08-09,Coffee Maker,Electronics,5,214.63,15,912.18,Abuja,Cash on Delivery,Delivered
+981,1226,2025-08-09,Laptop Stand,Beauty,3,216.67,10,585.01,Port Harcourt,Bank Transfer,Delivered
+130,1106,2025-08-09,Coffee Maker,Beauty,4,403.01,15,1370.23,Lagos,Card,Cancelled
+968,1085,2025-08-10,Cotton T-Shirt,Home & Kitchen,2,122.04,5,231.88,Abuja,Card,Delivered
+609,1219,2025-08-10,Wireless Headphones,Home & Kitchen,5,499.32,15,2122.11,Kano,Bank Transfer,Delivered
+335,1230,2025-08-10,Wireless Headphones,Clothing,3,365.63,0,1096.89,Port Harcourt,Wallet,Delivered
+645,1007,2025-08-11,Yoga Mat,Electronics,4,214.17,20,685.34,Lagos,Bank Transfer,Delivered
+605,1053,2025-08-11,Running Shoes,Electronics,5,77.78,20,311.12,Lagos,Bank Transfer,Delivered
+980,1153,2025-08-11,Running Shoes,Beauty,3,244.19,0,732.57,Ibadan,Card,Shipped
+788,1003,2025-08-11,Wireless Headphones,Books,4,171.34,0,685.36,Kano,Bank Transfer,Processing
+679,1164,2025-08-12,Bluetooth Speaker,Clothing,3,117.4,10,316.98,Ibadan,Wallet,Shipped
+959,1230,2025-08-12,Laptop Stand,Beauty,5,473.39,0,2366.95,Ibadan,Bank Transfer,Shipped
+962,1127,2025-08-12,Running Shoes,Electronics,3,274.83,20,659.59,Ibadan,Wallet,Delivered
+525,1201,2025-08-12,Laptop Stand,Clothing,2,333.4,5,633.46,Ibadan,Bank Transfer,Delivered
+821,1135,2025-08-12,Yoga Mat,Electronics,1,253.24,0,253.24,Ibadan,Wallet,Shipped
+97,1135,2025-08-13,Python Programming Book,Electronics,2,354.49,0,708.98,Abuja,Card,Shipped
+123,1247,2025-08-13,Face Moisturizer,Books,4,492.91,10,1774.48,Kano,Wallet,Delivered
+342,1105,2025-08-13,Bluetooth Speaker,Clothing,2,400.05,5,760.1,Port Harcourt,Card,Delivered
+275,1009,2025-08-13,Cotton T-Shirt,Electronics,3,12.32,5,35.11,Lagos,Card,Delivered
+214,1179,2025-08-13,Coffee Maker,Electronics,3,452.25,20,1085.4,Kano,Wallet,Processing
+63,1159,2025-08-14,Coffee Maker,Beauty,2,423.36,5,804.38,Lagos,Cash on Delivery,Delivered
+786,1090,2025-08-14,Bluetooth Speaker,Books,3,467.06,10,1261.06,Ibadan,Bank Transfer,Shipped
+122,1237,2025-08-14,Cotton T-Shirt,Sports,4,249.95,20,799.84,Port Harcourt,Wallet,Delivered
+62,1006,2025-08-15,Yoga Mat,Electronics,4,129.4,5,491.72,Ibadan,Wallet,Delivered
+742,1116,2025-08-15,Face Moisturizer,Clothing,4,166.99,5,634.56,Abuja,Bank Transfer,Delivered
+152,1133,2025-08-15,Bluetooth Speaker,Clothing,2,448.86,5,852.83,Ibadan,Card,Delivered
+701,1223,2025-08-16,Face Moisturizer,Books,3,287.55,0,862.65,Ibadan,Card,Processing
+798,1031,2025-08-16,Python Programming Book,Electronics,3,91.37,0,274.11,Lagos,Wallet,Processing
+594,1183,2025-08-17,Yoga Mat,Books,5,136.33,10,613.49,Ibadan,Card,Delivered
+48,1063,2025-08-17,Cotton T-Shirt,Clothing,5,49.22,15,209.18,Port Harcourt,Wallet,Processing
+3,1009,2025-08-17,Python Programming Book,Beauty,4,461.32,20,1476.22,Abuja,Cash on Delivery,Shipped
+268,1233,2025-08-19,Wireless Headphones,Clothing,2,25.33,15,43.06,Ibadan,Bank Transfer,Processing
+60,1149,2025-08-19,Coffee Maker,Clothing,4,251.71,5,956.5,Port Harcourt,Cash on Delivery,Delivered
+183,1026,2025-08-21,Smart Watch,Electronics,3,18.66,15,47.58,Kano,Wallet,Delivered
+566,1085,2025-08-21,Laptop Stand,Beauty,2,488.3,5,927.77,Kano,Wallet,Delivered
+64,1129,2025-08-22,Wireless Headphones,Electronics,5,322.42,0,1612.1,Abuja,Bank Transfer,Delivered
+613,1197,2025-08-22,Bluetooth Speaker,Clothing,4,313.64,15,1066.38,Abuja,Card,Delivered
+145,1033,2025-08-22,Wireless Headphones,Home & Kitchen,5,314.73,15,1337.6,Kano,Wallet,Delivered
+672,1173,2025-08-23,Coffee Maker,Clothing,4,371.52,0,1486.08,Lagos,Wallet,Processing
+20,1172,2025-08-23,Yoga Mat,Home & Kitchen,3,415.31,15,1059.04,Kano,Bank Transfer,Delivered
+106,1114,2025-08-23,Python Programming Book,Clothing,4,393.18,5,1494.08,Ibadan,Card,Delivered
+420,1027,2025-08-23,Wireless Headphones,Sports,3,280.92,5,800.62,Abuja,Bank Transfer,Delivered
+787,1141,2025-08-24,Python Programming Book,Sports,1,201.83,0,201.83,Abuja,Cash on Delivery,Processing
+554,1140,2025-08-25,Running Shoes,Sports,2,77.94,15,132.5,Ibadan,Bank Transfer,Delivered
+812,1062,2025-08-25,Face Moisturizer,Sports,5,462.71,10,2082.19,Ibadan,Cash on Delivery,Delivered
+674,1218,2025-08-26,Cotton T-Shirt,Sports,1,378.64,0,378.64,Lagos,Card,Delivered
+735,1207,2025-08-26,Coffee Maker,Electronics,2,114.91,5,218.33,Kano,Bank Transfer,Delivered
+899,1190,2025-08-26,Bluetooth Speaker,Beauty,1,288.05,5,273.65,Kano,Cash on Delivery,Delivered
+944,1217,2025-08-26,Running Shoes,Electronics,3,41.03,20,98.47,Abuja,Card,Processing
+361,1002,2025-08-27,Python Programming Book,Electronics,5,373.44,20,1493.76,Lagos,Cash on Delivery,Delivered
+954,1036,2025-08-27,Face Moisturizer,Electronics,3,474.93,10,1282.31,Ibadan,Bank Transfer,Delivered
+186,1143,2025-08-27,Face Moisturizer,Sports,3,178.21,20,427.7,Port Harcourt,Cash on Delivery,Processing
+522,1175,2025-08-27,Wireless Headphones,Beauty,1,377.31,5,358.44,Port Harcourt,Cash on Delivery,Delivered
+138,1065,2025-08-28,Yoga Mat,Beauty,1,359.5,10,323.55,Port Harcourt,Cash on Delivery,Delivered
+923,1139,2025-08-28,Running Shoes,Books,3,233.64,10,630.83,Kano,Cash on Delivery,Shipped
+994,1139,2025-08-28,Yoga Mat,Electronics,3,393.06,5,1120.22,Ibadan,Card,Processing
+879,1168,2025-08-28,Cotton T-Shirt,Sports,3,320.77,0,962.31,Abuja,Cash on Delivery,Shipped
+553,1025,2025-08-28,Smart Watch,Clothing,5,144.82,20,579.28,Ibadan,Bank Transfer,Delivered
+15,1071,2025-08-29,Cotton T-Shirt,Clothing,4,173.72,10,625.39,Kano,Wallet,Delivered
+143,1041,2025-08-29,Cotton T-Shirt,Beauty,2,33.99,10,61.18,Ibadan,Card,Delivered
+714,1123,2025-08-30,Cotton T-Shirt,Sports,4,198.83,5,755.55,Port Harcourt,Bank Transfer,Shipped
+369,1232,2025-08-31,Wireless Headphones,Electronics,1,58.93,10,53.04,Ibadan,Wallet,Processing
+889,1085,2025-08-31,Smart Watch,Sports,1,452.46,0,452.46,Ibadan,Wallet,Processing
+298,1193,2025-08-31,Face Moisturizer,Home & Kitchen,3,91.09,20,218.62,Ibadan,Bank Transfer,Delivered
+218,1086,2025-09-01,Smart Watch,Home & Kitchen,1,59.93,10,53.94,Port Harcourt,Card,Delivered
+447,1077,2025-09-01,Laptop Stand,Electronics,2,358.02,5,680.24,Ibadan,Wallet,Processing
+204,1033,2025-09-01,Smart Watch,Electronics,4,438.41,0,1753.64,Kano,Wallet,Delivered
+870,1175,2025-09-01,Wireless Headphones,Clothing,1,178.63,15,151.84,Ibadan,Cash on Delivery,Delivered
+811,1051,2025-09-01,Face Moisturizer,Books,1,202.32,5,192.2,Port Harcourt,Wallet,Delivered
+259,1152,2025-09-02,Yoga Mat,Electronics,1,33.8,10,30.42,Ibadan,Card,Delivered
+376,1147,2025-09-03,Face Moisturizer,Beauty,1,444.91,10,400.42,Lagos,Bank Transfer,Shipped
+403,1100,2025-09-03,Coffee Maker,Electronics,2,32.13,0,64.26,Lagos,Wallet,Delivered
+828,1135,2025-09-03,Wireless Headphones,Clothing,5,286.89,10,1291.0,Lagos,Wallet,Delivered
+643,1239,2025-09-04,Bluetooth Speaker,Clothing,5,417.74,20,1670.96,Port Harcourt,Bank Transfer,Shipped
+848,1025,2025-09-04,Running Shoes,Beauty,1,191.29,5,181.73,Abuja,Wallet,Delivered
+518,1015,2025-09-04,Cotton T-Shirt,Beauty,1,424.54,20,339.63,Port Harcourt,Card,Delivered
+536,1127,2025-09-04,Yoga Mat,Clothing,1,327.07,0,327.07,Port Harcourt,Cash on Delivery,Shipped
+644,1017,2025-09-05,Running Shoes,Books,3,412.4,10,1113.48,Ibadan,Bank Transfer,Delivered
+124,1067,2025-09-05,Running Shoes,Books,3,237.84,15,606.49,Kano,Card,Delivered
+129,1137,2025-09-05,Coffee Maker,Home & Kitchen,3,282.18,10,761.89,Abuja,Card,Processing
+919,1212,2025-09-06,Wireless Headphones,Electronics,2,450.47,0,900.94,Kano,Cash on Delivery,Processing
+598,1002,2025-09-06,Running Shoes,Clothing,4,409.87,10,1475.53,Ibadan,Wallet,Delivered
+955,1094,2025-09-06,Running Shoes,Books,4,180.47,10,649.69,Port Harcourt,Cash on Delivery,Delivered
+23,1136,2025-09-07,Coffee Maker,Books,1,85.27,5,81.01,Port Harcourt,Wallet,Processing
+854,1018,2025-09-07,Wireless Headphones,Books,2,158.86,5,301.83,Lagos,Card,Delivered
+4,1112,2025-09-07,Cotton T-Shirt,Books,3,256.78,20,616.27,Abuja,Bank Transfer,Delivered
+670,1108,2025-09-07,Coffee Maker,Home & Kitchen,1,55.45,5,52.68,Port Harcourt,Bank Transfer,Processing
+723,1237,2025-09-07,Smart Watch,Sports,5,448.31,15,1905.32,Kano,Card,Delivered
+574,1223,2025-09-08,Python Programming Book,Beauty,1,468.61,5,445.18,Port Harcourt,Bank Transfer,Processing
+402,1030,2025-09-09,Yoga Mat,Beauty,4,137.13,20,438.82,Abuja,Wallet,Delivered
+323,1116,2025-09-09,Smart Watch,Beauty,4,154.43,15,525.06,Kano,Wallet,Processing
+913,1007,2025-09-09,Laptop Stand,Home & Kitchen,2,422.66,0,845.32,Kano,Bank Transfer,Delivered
+112,1120,2025-09-10,Running Shoes,Sports,4,330.51,15,1123.73,Port Harcourt,Cash on Delivery,Delivered
+66,1087,2025-09-10,Laptop Stand,Clothing,2,338.4,10,609.12,Kano,Cash on Delivery,Delivered
+572,1024,2025-09-10,Python Programming Book,Beauty,3,309.01,20,741.62,Lagos,Wallet,Delivered
+357,1242,2025-09-11,Python Programming Book,Home & Kitchen,1,369.41,0,369.41,Port Harcourt,Cash on Delivery,Delivered
+626,1097,2025-09-11,Cotton T-Shirt,Books,2,280.57,15,476.97,Abuja,Cash on Delivery,Delivered
+154,1245,2025-09-12,Coffee Maker,Sports,2,126.45,15,214.96,Kano,Wallet,Delivered
+860,1190,2025-09-12,Face Moisturizer,Beauty,5,90.06,10,405.27,Lagos,Bank Transfer,Delivered
+516,1199,2025-09-12,Coffee Maker,Home & Kitchen,1,96.85,20,77.48,Ibadan,Wallet,Cancelled
+269,1012,2025-09-13,Laptop Stand,Clothing,4,64.21,0,256.84,Lagos,Cash on Delivery,Processing
+29,1173,2025-09-14,Cotton T-Shirt,Clothing,3,388.33,5,1106.74,Ibadan,Cash on Delivery,Delivered
+207,1227,2025-09-15,Yoga Mat,Beauty,4,398.07,20,1273.82,Ibadan,Bank Transfer,Delivered
+478,1093,2025-09-15,Coffee Maker,Sports,1,206.22,10,185.6,Ibadan,Card,Delivered
+822,1171,2025-09-15,Python Programming Book,Books,4,238.22,0,952.88,Abuja,Card,Processing
+840,1233,2025-09-16,Face Moisturizer,Clothing,5,193.49,20,773.96,Ibadan,Bank Transfer,Delivered
+410,1081,2025-09-16,Bluetooth Speaker,Electronics,1,154.44,10,139.0,Kano,Card,Processing
+583,1042,2025-09-16,Python Programming Book,Sports,1,462.7,5,439.56,Abuja,Wallet,Delivered
+779,1027,2025-09-16,Smart Watch,Clothing,2,434.41,20,695.06,Lagos,Cash on Delivery,Shipped
+463,1148,2025-09-16,Laptop Stand,Home & Kitchen,4,74.56,20,238.59,Kano,Bank Transfer,Delivered
+875,1048,2025-09-17,Running Shoes,Home & Kitchen,4,487.46,15,1657.36,Abuja,Wallet,Delivered
+956,1049,2025-09-17,Bluetooth Speaker,Electronics,4,54.38,20,174.02,Abuja,Card,Delivered
+575,1178,2025-09-18,Smart Watch,Books,1,428.45,20,342.76,Port Harcourt,Cash on Delivery,Delivered
+253,1246,2025-09-18,Laptop Stand,Sports,1,128.82,0,128.82,Lagos,Bank Transfer,Delivered
+281,1120,2025-09-18,Wireless Headphones,Books,2,134.59,0,269.18,Kano,Cash on Delivery,Cancelled
+282,1224,2025-09-19,Coffee Maker,Home & Kitchen,3,460.21,15,1173.54,Abuja,Card,Delivered
+958,1094,2025-09-19,Bluetooth Speaker,Clothing,4,224.54,15,763.44,Port Harcourt,Wallet,Delivered
+9,1048,2025-09-19,Wireless Headphones,Beauty,2,252.13,15,428.62,Abuja,Card,Shipped
+867,1118,2025-09-20,Running Shoes,Sports,5,115.02,10,517.59,Lagos,Bank Transfer,Processing
+967,1057,2025-09-20,Bluetooth Speaker,Home & Kitchen,4,223.03,15,758.3,Kano,Wallet,Shipped
+699,1076,2025-09-20,Coffee Maker,Electronics,1,151.65,5,144.07,Ibadan,Cash on Delivery,Processing
+167,1116,2025-09-21,Coffee Maker,Books,2,405.64,15,689.59,Lagos,Cash on Delivery,Delivered
+504,1193,2025-09-22,Cotton T-Shirt,Books,5,84.64,5,402.04,Lagos,Cash on Delivery,Delivered
+135,1247,2025-09-23,Python Programming Book,Electronics,4,33.86,15,115.12,Kano,Card,Processing
+407,1065,2025-09-24,Yoga Mat,Beauty,3,252.8,5,720.48,Lagos,Wallet,Delivered
+616,1108,2025-09-24,Wireless Headphones,Books,4,44.12,10,158.83,Abuja,Cash on Delivery,Delivered
+294,1024,2025-09-24,Yoga Mat,Clothing,2,48.27,5,91.71,Lagos,Wallet,Shipped
+191,1108,2025-09-25,Bluetooth Speaker,Clothing,4,149.43,0,597.72,Abuja,Card,Delivered
+791,1050,2025-09-25,Face Moisturizer,Beauty,1,236.29,0,236.29,Ibadan,Card,Processing
+660,1125,2025-09-26,Laptop Stand,Books,2,389.57,10,701.23,Port Harcourt,Wallet,Shipped
+372,1043,2025-09-27,Wireless Headphones,Electronics,4,21.34,5,81.09,Port Harcourt,Bank Transfer,Cancelled
+873,1015,2025-09-27,Bluetooth Speaker,Clothing,1,208.45,20,166.76,Port Harcourt,Wallet,Delivered
+652,1247,2025-09-27,Face Moisturizer,Books,4,440.74,0,1762.96,Ibadan,Bank Transfer,Delivered
+337,1190,2025-09-27,Cotton T-Shirt,Beauty,5,381.63,10,1717.34,Abuja,Bank Transfer,Shipped
+452,1064,2025-09-28,Face Moisturizer,Sports,5,131.72,0,658.6,Port Harcourt,Bank Transfer,Delivered
+375,1076,2025-09-28,Smart Watch,Clothing,5,362.46,15,1540.46,Port Harcourt,Bank Transfer,Shipped
+586,1153,2025-09-28,Cotton T-Shirt,Electronics,5,375.05,5,1781.49,Lagos,Bank Transfer,Cancelled
+965,1237,2025-09-29,Wireless Headphones,Electronics,5,330.06,0,1650.3,Port Harcourt,Cash on Delivery,Shipped
+891,1210,2025-09-29,Smart Watch,Home & Kitchen,1,468.58,10,421.72,Port Harcourt,Cash on Delivery,Cancelled
+927,1100,2025-09-29,Coffee Maker,Beauty,3,53.98,10,145.75,Abuja,Cash on Delivery,Processing
+308,1200,2025-09-29,Smart Watch,Home & Kitchen,3,94.74,0,284.22,Ibadan,Card,Delivered
+126,1127,2025-09-30,Laptop Stand,Beauty,3,211.67,20,508.01,Lagos,Bank Transfer,Delivered
+358,1065,2025-09-30,Wireless Headphones,Home & Kitchen,5,440.4,20,1761.6,Kano,Card,Delivered
+971,1214,2025-09-30,Smart Watch,Home & Kitchen,2,468.97,10,844.15,Kano,Card,Delivered
+718,1248,2025-09-30,Python Programming Book,Sports,3,286.41,5,816.27,Ibadan,Card,Cancelled
+741,1067,2025-10-01,Wireless Headphones,Electronics,5,431.54,5,2049.82,Lagos,Bank Transfer,Shipped
+641,1211,2025-10-02,Coffee Maker,Books,4,183.14,15,622.68,Ibadan,Bank Transfer,Delivered
+999,1170,2025-10-02,Running Shoes,Electronics,5,180.36,15,766.53,Lagos,Cash on Delivery,Processing
+599,1239,2025-10-02,Smart Watch,Electronics,4,431.68,5,1640.38,Abuja,Cash on Delivery,Delivered
+146,1070,2025-10-02,Face Moisturizer,Home & Kitchen,5,430.48,10,1937.16,Ibadan,Card,Processing
+523,1135,2025-10-02,Smart Watch,Clothing,1,495.99,20,396.79,Kano,Wallet,Delivered
+550,1218,2025-10-03,Yoga Mat,Sports,4,130.87,15,444.96,Abuja,Card,Delivered
+208,1235,2025-10-03,Yoga Mat,Home & Kitchen,5,394.07,20,1576.28,Abuja,Cash on Delivery,Processing
+669,1185,2025-10-04,Running Shoes,Home & Kitchen,5,411.41,10,1851.35,Lagos,Card,Shipped
+107,1026,2025-10-04,Wireless Headphones,Electronics,4,434.73,20,1391.14,Ibadan,Bank Transfer,Delivered
+687,1238,2025-10-04,Smart Watch,Electronics,3,205.27,0,615.81,Lagos,Cash on Delivery,Delivered
+710,1107,2025-10-04,Running Shoes,Books,3,215.14,20,516.34,Port Harcourt,Card,Delivered
+689,1002,2025-10-04,Python Programming Book,Electronics,3,77.23,20,185.35,Ibadan,Bank Transfer,Shipped
+284,1109,2025-10-05,Smart Watch,Electronics,3,305.68,0,917.04,Ibadan,Card,Delivered
+571,1173,2025-10-06,Face Moisturizer,Sports,5,438.8,15,1864.9,Port Harcourt,Wallet,Delivered
+319,1213,2025-10-06,Running Shoes,Books,5,314.68,5,1494.73,Abuja,Bank Transfer,Delivered
+488,1064,2025-10-07,Laptop Stand,Books,3,34.55,20,82.92,Ibadan,Bank Transfer,Delivered
+635,1026,2025-10-07,Face Moisturizer,Electronics,1,488.57,20,390.86,Port Harcourt,Cash on Delivery,Delivered
+182,1091,2025-10-08,Face Moisturizer,Sports,1,108.97,0,108.97,Lagos,Card,Delivered
+698,1023,2025-10-08,Yoga Mat,Home & Kitchen,3,331.48,10,895.0,Ibadan,Card,Processing
+600,1183,2025-10-09,Wireless Headphones,Home & Kitchen,4,92.17,15,313.38,Kano,Wallet,Delivered
+497,1083,2025-10-09,Python Programming Book,Sports,1,323.12,0,323.12,Port Harcourt,Bank Transfer,Cancelled
+47,1114,2025-10-09,Smart Watch,Books,3,202.36,15,516.02,Ibadan,Wallet,Delivered
+495,1077,2025-10-10,Laptop Stand,Beauty,2,462.65,20,740.24,Abuja,Cash on Delivery,Processing
+5,1201,2025-10-10,Running Shoes,Clothing,3,264.93,15,675.57,Port Harcourt,Wallet,Delivered
+228,1154,2025-10-10,Python Programming Book,Beauty,3,42.11,5,120.01,Ibadan,Bank Transfer,Delivered
+904,1181,2025-10-11,Cotton T-Shirt,Beauty,5,162.22,0,811.1,Port Harcourt,Cash on Delivery,Shipped
+841,1191,2025-10-12,Laptop Stand,Clothing,2,59.54,20,95.26,Abuja,Wallet,Delivered
+19,1047,2025-10-12,Yoga Mat,Clothing,5,17.19,10,77.36,Abuja,Card,Delivered
+185,1014,2025-10-12,Smart Watch,Home & Kitchen,3,320.92,15,818.35,Ibadan,Wallet,Delivered
+492,1050,2025-10-13,Cotton T-Shirt,Sports,5,377.91,15,1606.12,Abuja,Card,Shipped
+74,1236,2025-10-13,Python Programming Book,Home & Kitchen,1,386.63,15,328.64,Abuja,Cash on Delivery,Delivered
+355,1121,2025-10-14,Yoga Mat,Beauty,5,113.95,20,455.8,Ibadan,Bank Transfer,Processing
+371,1140,2025-10-14,Bluetooth Speaker,Sports,2,374.36,20,598.98,Port Harcourt,Bank Transfer,Delivered
+454,1177,2025-10-14,Python Programming Book,Beauty,1,89.01,5,84.56,Kano,Wallet,Delivered
+217,1123,2025-10-15,Running Shoes,Books,1,285.46,0,285.46,Ibadan,Cash on Delivery,Delivered
+563,1006,2025-10-15,Running Shoes,Clothing,3,135.0,10,364.5,Port Harcourt,Cash on Delivery,Delivered
+871,1048,2025-10-15,Smart Watch,Electronics,3,57.44,0,172.32,Lagos,Cash on Delivery,Delivered
+682,1043,2025-10-15,Coffee Maker,Sports,1,68.27,0,68.27,Lagos,Wallet,Delivered
+982,1240,2025-10-16,Cotton T-Shirt,Beauty,4,42.74,0,170.96,Ibadan,Card,Delivered
+909,1200,2025-10-18,Smart Watch,Electronics,2,434.98,0,869.96,Abuja,Cash on Delivery,Delivered
+896,1102,2025-10-19,Yoga Mat,Electronics,4,86.32,20,276.22,Ibadan,Wallet,Shipped
+473,1123,2025-10-19,Running Shoes,Home & Kitchen,3,68.29,15,174.14,Ibadan,Wallet,Processing
+544,1154,2025-10-19,Cotton T-Shirt,Beauty,1,334.83,15,284.61,Ibadan,Bank Transfer,Delivered
+296,1249,2025-10-19,Yoga Mat,Clothing,3,179.77,15,458.41,Kano,Card,Delivered
+922,1219,2025-10-19,Running Shoes,Home & Kitchen,3,246.64,15,628.93,Ibadan,Card,Delivered
+617,1074,2025-10-19,Running Shoes,Books,2,77.62,0,155.24,Kano,Bank Transfer,Delivered
+512,1131,2025-10-19,Face Moisturizer,Clothing,4,303.85,10,1093.86,Lagos,Cash on Delivery,Delivered
+421,1181,2025-10-20,Python Programming Book,Sports,5,57.52,10,258.84,Kano,Bank Transfer,Delivered
+393,1004,2025-10-20,Laptop Stand,Home & Kitchen,2,129.36,15,219.91,Port Harcourt,Bank Transfer,Cancelled
+362,1197,2025-10-20,Bluetooth Speaker,Sports,5,368.26,15,1565.1,Kano,Wallet,Delivered
+155,1057,2025-10-20,Wireless Headphones,Clothing,3,427.86,0,1283.58,Ibadan,Wallet,Delivered
+215,1172,2025-10-21,Yoga Mat,Home & Kitchen,4,395.92,10,1425.31,Lagos,Wallet,Delivered
+332,1068,2025-10-22,Python Programming Book,Clothing,2,281.24,20,449.98,Abuja,Bank Transfer,Shipped
+79,1062,2025-10-22,Cotton T-Shirt,Home & Kitchen,3,426.63,5,1215.9,Lagos,Card,Delivered
+444,1114,2025-10-22,Face Moisturizer,Books,3,212.65,5,606.05,Lagos,Cash on Delivery,Shipped
+589,1152,2025-10-22,Laptop Stand,Electronics,5,245.5,15,1043.38,Ibadan,Cash on Delivery,Delivered
+45,1104,2025-10-22,Cotton T-Shirt,Beauty,1,79.38,0,79.38,Ibadan,Wallet,Delivered
+408,1047,2025-10-24,Python Programming Book,Sports,1,64.24,15,54.6,Kano,Bank Transfer,Delivered
+658,1144,2025-10-24,Cotton T-Shirt,Beauty,4,10.25,20,32.8,Port Harcourt,Wallet,Shipped
+886,1051,2025-10-25,Wireless Headphones,Home & Kitchen,4,29.8,10,107.28,Port Harcourt,Cash on Delivery,Delivered
+706,1059,2025-10-25,Wireless Headphones,Clothing,3,34.23,10,92.42,Kano,Wallet,Delivered
+539,1209,2025-10-25,Coffee Maker,Home & Kitchen,3,225.62,10,609.17,Lagos,Cash on Delivery,Delivered
+121,1182,2025-10-25,Laptop Stand,Books,3,390.9,15,996.79,Ibadan,Cash on Delivery,Delivered
+306,1193,2025-10-25,Coffee Maker,Home & Kitchen,1,80.42,5,76.4,Ibadan,Card,Delivered
+356,1206,2025-10-26,Coffee Maker,Books,5,240.2,10,1080.9,Port Harcourt,Card,Processing
+189,1011,2025-10-26,Smart Watch,Home & Kitchen,2,378.46,0,756.92,Lagos,Bank Transfer,Processing
+224,1134,2025-10-27,Laptop Stand,Home & Kitchen,2,480.29,15,816.49,Port Harcourt,Bank Transfer,Delivered
+952,1013,2025-10-27,Running Shoes,Home & Kitchen,2,312.72,5,594.17,Kano,Bank Transfer,Delivered
+984,1101,2025-10-27,Wireless Headphones,Clothing,4,121.7,15,413.78,Port Harcourt,Wallet,Delivered
+394,1017,2025-10-27,Cotton T-Shirt,Home & Kitchen,3,58.47,0,175.41,Lagos,Bank Transfer,Delivered
+238,1028,2025-10-28,Laptop Stand,Home & Kitchen,3,158.02,20,379.25,Abuja,Bank Transfer,Delivered
+833,1098,2025-10-28,Running Shoes,Clothing,3,272.88,20,654.91,Port Harcourt,Bank Transfer,Delivered
+278,1192,2025-10-28,Yoga Mat,Sports,4,89.74,5,341.01,Kano,Card,Shipped
+993,1248,2025-10-29,Laptop Stand,Sports,1,327.61,0,327.61,Port Harcourt,Wallet,Cancelled
+427,1065,2025-10-29,Bluetooth Speaker,Books,5,88.55,10,398.48,Abuja,Bank Transfer,Cancelled
+148,1214,2025-10-29,Yoga Mat,Clothing,2,262.17,20,419.47,Lagos,Bank Transfer,Delivered
+283,1043,2025-10-29,Cotton T-Shirt,Sports,4,232.68,20,744.58,Lagos,Card,Cancelled
+668,1035,2025-10-29,Laptop Stand,Clothing,5,274.08,0,1370.4,Ibadan,Cash on Delivery,Processing
+58,1133,2025-10-30,Python Programming Book,Beauty,1,250.2,0,250.2,Ibadan,Card,Delivered
+963,1247,2025-10-30,Coffee Maker,Books,5,99.58,15,423.22,Port Harcourt,Wallet,Delivered
+8,1163,2025-10-30,Yoga Mat,Books,4,420.32,10,1513.15,Abuja,Bank Transfer,Shipped
+291,1018,2025-10-30,Running Shoes,Sports,5,116.01,10,522.05,Ibadan,Cash on Delivery,Delivered
+87,1068,2025-10-31,Running Shoes,Clothing,1,96.98,0,96.98,Kano,Cash on Delivery,Shipped
+657,1034,2025-10-31,Face Moisturizer,Sports,4,35.88,10,129.17,Abuja,Wallet,Processing
+731,1230,2025-11-01,Python Programming Book,Books,4,115.44,15,392.5,Ibadan,Wallet,Delivered
+883,1125,2025-11-01,Yoga Mat,Beauty,3,271.95,10,734.26,Abuja,Bank Transfer,Shipped
+265,1150,2025-11-01,Cotton T-Shirt,Books,5,460.22,10,2070.99,Lagos,Cash on Delivery,Delivered
+32,1131,2025-11-02,Yoga Mat,Sports,2,355.65,5,675.73,Ibadan,Bank Transfer,Processing
+582,1244,2025-11-02,Coffee Maker,Home & Kitchen,5,457.21,15,1943.14,Lagos,Bank Transfer,Delivered
+203,1086,2025-11-02,Laptop Stand,Home & Kitchen,3,86.17,15,219.73,Ibadan,Bank Transfer,Delivered
+506,1095,2025-11-02,Laptop Stand,Clothing,3,202.53,20,486.07,Lagos,Bank Transfer,Delivered
+935,1095,2025-11-02,Coffee Maker,Books,3,110.85,0,332.55,Abuja,Card,Delivered
+164,1051,2025-11-02,Smart Watch,Sports,3,51.56,5,146.95,Abuja,Wallet,Delivered
+322,1113,2025-11-03,Bluetooth Speaker,Home & Kitchen,1,301.34,0,301.34,Ibadan,Cash on Delivery,Delivered
+733,1191,2025-11-04,Cotton T-Shirt,Home & Kitchen,5,105.79,10,476.06,Abuja,Cash on Delivery,Shipped
+453,1120,2025-11-04,Bluetooth Speaker,Beauty,3,129.95,10,350.86,Kano,Cash on Delivery,Shipped
+538,1181,2025-11-04,Bluetooth Speaker,Books,1,210.0,0,210.0,Kano,Card,Delivered
+300,1024,2025-11-05,Smart Watch,Beauty,1,356.96,20,285.57,Ibadan,Bank Transfer,Delivered
+484,1016,2025-11-05,Cotton T-Shirt,Home & Kitchen,4,239.69,5,910.82,Port Harcourt,Card,Delivered
+11,1089,2025-11-05,Coffee Maker,Electronics,3,45.31,5,129.13,Ibadan,Bank Transfer,Delivered
+590,1075,2025-11-06,Running Shoes,Books,5,233.66,20,934.64,Port Harcourt,Bank Transfer,Delivered
+595,1155,2025-11-07,Bluetooth Speaker,Clothing,2,297.12,5,564.53,Lagos,Bank Transfer,Delivered
+401,1095,2025-11-07,Cotton T-Shirt,Sports,5,239.52,20,958.08,Kano,Bank Transfer,Shipped
+364,1242,2025-11-08,Laptop Stand,Home & Kitchen,5,289.27,20,1157.08,Lagos,Card,Processing
+997,1187,2025-11-08,Coffee Maker,Sports,3,429.55,0,1288.65,Abuja,Wallet,Delivered
+181,1164,2025-11-08,Coffee Maker,Clothing,5,42.91,5,203.82,Ibadan,Wallet,Shipped
+836,1132,2025-11-08,Yoga Mat,Books,4,429.26,15,1459.48,Lagos,Cash on Delivery,Delivered
+156,1047,2025-11-10,Python Programming Book,Home & Kitchen,4,180.54,20,577.73,Ibadan,Card,Delivered
+236,1010,2025-11-11,Python Programming Book,Electronics,4,352.11,10,1267.6,Port Harcourt,Cash on Delivery,Delivered
+430,1231,2025-11-11,Smart Watch,Beauty,4,370.21,5,1406.8,Ibadan,Cash on Delivery,Delivered
+489,1167,2025-11-11,Smart Watch,Electronics,4,177.78,10,640.01,Ibadan,Cash on Delivery,Delivered
+288,1202,2025-11-11,Wireless Headphones,Home & Kitchen,3,166.02,5,473.16,Abuja,Card,Delivered
+663,1039,2025-11-11,Running Shoes,Clothing,1,413.33,20,330.66,Kano,Card,Delivered
+187,1067,2025-11-12,Coffee Maker,Clothing,1,215.99,15,183.59,Ibadan,Card,Delivered
+173,1127,2025-11-13,Bluetooth Speaker,Beauty,4,498.81,10,1795.72,Abuja,Card,Processing
+989,1233,2025-11-13,Coffee Maker,Electronics,2,449.41,10,808.94,Lagos,Cash on Delivery,Cancelled
+797,1126,2025-11-13,Wireless Headphones,Beauty,5,56.37,15,239.57,Abuja,Cash on Delivery,Delivered
+400,1166,2025-11-14,Bluetooth Speaker,Clothing,2,265.79,15,451.84,Lagos,Wallet,Delivered
+514,1228,2025-11-14,Smart Watch,Home & Kitchen,5,475.53,0,2377.65,Lagos,Bank Transfer,Delivered
+25,1114,2025-11-15,Running Shoes,Electronics,4,68.64,5,260.83,Lagos,Wallet,Delivered
+119,1052,2025-11-15,Cotton T-Shirt,Clothing,2,70.7,0,141.4,Ibadan,Bank Transfer,Delivered
+845,1188,2025-11-15,Laptop Stand,Home & Kitchen,1,491.25,20,393.0,Ibadan,Cash on Delivery,Delivered
+823,1228,2025-11-15,Bluetooth Speaker,Electronics,1,12.68,10,11.41,Kano,Card,Shipped
+624,1020,2025-11-15,Bluetooth Speaker,Electronics,3,96.41,10,260.31,Kano,Cash on Delivery,Delivered
+900,1147,2025-11-16,Face Moisturizer,Home & Kitchen,4,204.64,20,654.85,Lagos,Cash on Delivery,Delivered
+390,1150,2025-11-16,Python Programming Book,Sports,1,345.44,15,293.62,Abuja,Bank Transfer,Processing
+386,1181,2025-11-16,Cotton T-Shirt,Electronics,1,194.83,5,185.09,Ibadan,Cash on Delivery,Shipped
+960,1237,2025-11-16,Cotton T-Shirt,Books,3,195.37,5,556.8,Port Harcourt,Wallet,Delivered
+647,1187,2025-11-17,Smart Watch,Books,3,376.92,15,961.15,Kano,Bank Transfer,Delivered
+242,1069,2025-11-17,Smart Watch,Books,3,64.91,5,184.99,Port Harcourt,Card,Delivered
+837,1035,2025-11-17,Yoga Mat,Clothing,5,101.93,0,509.65,Abuja,Cash on Delivery,Processing
+292,1233,2025-11-18,Python Programming Book,Sports,2,212.87,10,383.17,Abuja,Wallet,Delivered
+510,1242,2025-11-18,Wireless Headphones,Clothing,2,235.94,5,448.29,Port Harcourt,Wallet,Delivered
+751,1011,2025-11-18,Yoga Mat,Books,5,58.92,10,265.14,Abuja,Bank Transfer,Delivered
+21,1034,2025-11-18,Laptop Stand,Books,3,429.71,5,1224.67,Abuja,Wallet,Processing
+868,1081,2025-11-18,Laptop Stand,Electronics,5,78.42,20,313.68,Abuja,Bank Transfer,Shipped
+783,1086,2025-11-19,Coffee Maker,Beauty,1,221.44,0,221.44,Lagos,Wallet,Delivered
+91,1185,2025-11-20,Laptop Stand,Books,3,464.46,5,1323.71,Ibadan,Cash on Delivery,Delivered
+222,1130,2025-11-20,Coffee Maker,Books,3,222.16,5,633.16,Abuja,Wallet,Delivered
+546,1189,2025-11-20,Python Programming Book,Sports,1,170.01,15,144.51,Port Harcourt,Card,Delivered
+693,1248,2025-11-20,Face Moisturizer,Clothing,5,438.79,0,2193.95,Port Harcourt,Cash on Delivery,Delivered
+266,1248,2025-11-21,Wireless Headphones,Books,3,14.54,15,37.08,Ibadan,Bank Transfer,Delivered
+743,1107,2025-11-22,Cotton T-Shirt,Beauty,4,186.77,20,597.66,Port Harcourt,Cash on Delivery,Shipped
+460,1164,2025-11-22,Running Shoes,Sports,1,269.58,5,256.1,Abuja,Bank Transfer,Delivered
+184,1214,2025-11-22,Bluetooth Speaker,Home & Kitchen,4,232.11,0,928.44,Kano,Bank Transfer,Shipped
+414,1180,2025-11-22,Wireless Headphones,Home & Kitchen,1,492.44,0,492.44,Lagos,Card,Delivered
+334,1224,2025-11-23,Wireless Headphones,Home & Kitchen,5,342.03,20,1368.12,Lagos,Wallet,Delivered
+249,1229,2025-11-25,Wireless Headphones,Clothing,4,392.48,0,1569.92,Ibadan,Cash on Delivery,Delivered
+461,1026,2025-11-25,Smart Watch,Books,4,272.92,10,982.51,Kano,Card,Shipped
+619,1159,2025-11-26,Coffee Maker,Home & Kitchen,1,142.61,10,128.35,Lagos,Bank Transfer,Delivered
+240,1061,2025-11-26,Laptop Stand,Beauty,4,214.14,0,856.56,Ibadan,Cash on Delivery,Delivered
+56,1095,2025-11-26,Face Moisturizer,Electronics,1,124.1,10,111.69,Kano,Cash on Delivery,Delivered
+513,1031,2025-11-27,Wireless Headphones,Clothing,5,241.66,0,1208.3,Port Harcourt,Bank Transfer,Delivered
+243,1207,2025-11-28,Bluetooth Speaker,Home & Kitchen,1,432.75,20,346.2,Ibadan,Cash on Delivery,Delivered
+71,1025,2025-11-28,Smart Watch,Home & Kitchen,4,175.84,10,633.02,Lagos,Card,Delivered
+50,1115,2025-11-29,Coffee Maker,Books,4,222.55,15,756.67,Kano,Cash on Delivery,Cancelled
+311,1130,2025-11-29,Running Shoes,Beauty,4,11.96,10,43.06,Lagos,Wallet,Delivered
+925,1083,2025-11-29,Coffee Maker,Electronics,2,187.18,15,318.21,Abuja,Card,Delivered
+987,1242,2025-11-30,Cotton T-Shirt,Beauty,4,490.88,5,1865.34,Kano,Bank Transfer,Delivered
+325,1243,2025-11-30,Bluetooth Speaker,Clothing,5,419.76,10,1888.92,Ibadan,Bank Transfer,Delivered
+239,1190,2025-11-30,Bluetooth Speaker,Home & Kitchen,2,203.12,20,324.99,Ibadan,Cash on Delivery,Delivered
+54,1203,2025-11-30,Laptop Stand,Electronics,3,454.48,5,1295.27,Kano,Cash on Delivery,Delivered
+920,1132,2025-11-30,Yoga Mat,Clothing,4,486.18,15,1653.01,Port Harcourt,Cash on Delivery,Delivered
+877,1104,2025-11-30,Running Shoes,Clothing,3,329.32,15,839.77,Abuja,Wallet,Delivered
+192,1086,2025-11-30,Wireless Headphones,Beauty,4,449.53,15,1528.4,Abuja,Wallet,Shipped
+865,1220,2025-11-30,Bluetooth Speaker,Home & Kitchen,5,236.25,15,1004.06,Port Harcourt,Cash on Delivery,Shipped
+37,1172,2025-11-30,Cotton T-Shirt,Electronics,5,267.29,20,1069.16,Port Harcourt,Cash on Delivery,Processing
+908,1198,2025-11-30,Wireless Headphones,Sports,1,56.2,20,44.96,Kano,Wallet,Delivered
+524,1247,2025-12-02,Python Programming Book,Home & Kitchen,5,270.39,0,1351.95,Port Harcourt,Cash on Delivery,Shipped
+295,1232,2025-12-03,Wireless Headphones,Home & Kitchen,3,24.62,0,73.86,Lagos,Card,Shipped
+818,1083,2025-12-03,Cotton T-Shirt,Books,1,23.0,20,18.4,Port Harcourt,Cash on Delivery,Delivered
+749,1217,2025-12-03,Coffee Maker,Books,2,445.3,20,712.48,Port Harcourt,Cash on Delivery,Cancelled
+223,1207,2025-12-03,Python Programming Book,Clothing,4,27.56,15,93.7,Kano,Bank Transfer,Delivered
+443,1171,2025-12-03,Cotton T-Shirt,Books,1,97.95,10,88.16,Abuja,Card,Processing
+640,1230,2025-12-04,Coffee Maker,Beauty,5,339.41,15,1442.49,Abuja,Cash on Delivery,Delivered
+869,1231,2025-12-04,Yoga Mat,Books,3,102.35,5,291.7,Kano,Bank Transfer,Delivered
+312,1215,2025-12-05,Coffee Maker,Electronics,4,18.12,10,65.23,Lagos,Wallet,Delivered
+160,1008,2025-12-05,Laptop Stand,Electronics,4,204.5,20,654.4,Ibadan,Card,Delivered
+983,1047,2025-12-05,Bluetooth Speaker,Books,3,300.55,15,766.4,Port Harcourt,Bank Transfer,Processing
+931,1004,2025-12-05,Wireless Headphones,Clothing,3,466.04,15,1188.4,Port Harcourt,Bank Transfer,Cancelled
+651,1100,2025-12-06,Laptop Stand,Clothing,3,80.52,0,241.56,Port Harcourt,Bank Transfer,Processing
+948,1130,2025-12-06,Running Shoes,Home & Kitchen,1,273.24,5,259.58,Lagos,Wallet,Shipped
+738,1092,2025-12-06,Smart Watch,Books,2,217.14,10,390.85,Lagos,Bank Transfer,Shipped
+157,1177,2025-12-06,Wireless Headphones,Sports,1,428.14,15,363.92,Lagos,Wallet,Delivered
+804,1199,2025-12-06,Face Moisturizer,Sports,5,136.14,0,680.7,Kano,Bank Transfer,Delivered
+901,1087,2025-12-06,Wireless Headphones,Electronics,1,228.06,10,205.25,Lagos,Cash on Delivery,Processing
+977,1144,2025-12-07,Yoga Mat,Electronics,1,223.97,15,190.37,Kano,Card,Shipped
+248,1049,2025-12-07,Running Shoes,Beauty,3,221.35,0,664.05,Abuja,Wallet,Delivered
+197,1139,2025-12-08,Python Programming Book,Home & Kitchen,2,373.74,5,710.11,Abuja,Wallet,Delivered
+578,1050,2025-12-08,Wireless Headphones,Clothing,3,250.01,20,600.02,Port Harcourt,Card,Shipped
+399,1018,2025-12-08,Cotton T-Shirt,Electronics,2,101.03,0,202.06,Port Harcourt,Wallet,Shipped
+949,1067,2025-12-08,Coffee Maker,Books,5,316.73,20,1266.92,Port Harcourt,Wallet,Delivered
+712,1199,2025-12-09,Coffee Maker,Home & Kitchen,3,415.04,20,996.1,Kano,Wallet,Delivered
+16,1036,2025-12-09,Smart Watch,Sports,4,94.77,10,341.17,Lagos,Card,Delivered
+99,1199,2025-12-09,Yoga Mat,Home & Kitchen,4,491.08,0,1964.32,Lagos,Bank Transfer,Processing
+776,1012,2025-12-10,Bluetooth Speaker,Beauty,5,167.33,0,836.65,Lagos,Cash on Delivery,Delivered
+14,1123,2025-12-10,Cotton T-Shirt,Clothing,4,147.5,15,501.5,Ibadan,Bank Transfer,Shipped
+397,1074,2025-12-11,Cotton T-Shirt,Clothing,1,146.28,10,131.65,Kano,Card,Delivered
+532,1032,2025-12-11,Laptop Stand,Sports,1,362.69,0,362.69,Ibadan,Bank Transfer,Processing
+198,1031,2025-12-11,Laptop Stand,Beauty,1,299.46,20,239.57,Kano,Bank Transfer,Delivered
+501,1174,2025-12-12,Smart Watch,Beauty,1,40.41,0,40.41,Abuja,Wallet,Delivered
+57,1212,2025-12-12,Wireless Headphones,Clothing,3,153.11,20,367.46,Kano,Wallet,Delivered
+200,1060,2025-12-13,Smart Watch,Clothing,5,156.7,5,744.32,Port Harcourt,Bank Transfer,Delivered
+108,1211,2025-12-13,Yoga Mat,Books,4,65.91,5,250.46,Ibadan,Cash on Delivery,Delivered
+382,1029,2025-12-13,Smart Watch,Electronics,5,304.87,15,1295.7,Lagos,Bank Transfer,Shipped
+6,1239,2025-12-13,Laptop Stand,Electronics,5,401.94,5,1909.22,Port Harcourt,Cash on Delivery,Delivered
+673,1053,2025-12-14,Coffee Maker,Sports,4,136.15,10,490.14,Abuja,Wallet,Delivered
+648,1021,2025-12-15,Face Moisturizer,Electronics,3,402.68,15,1026.83,Lagos,Cash on Delivery,Delivered
+715,1008,2025-12-16,Bluetooth Speaker,Electronics,5,142.64,15,606.22,Ibadan,Cash on Delivery,Delivered
+898,1146,2025-12-16,Coffee Maker,Beauty,1,458.71,0,458.71,Ibadan,Cash on Delivery,Processing
+70,1026,2025-12-16,Bluetooth Speaker,Sports,3,274.37,0,823.11,Lagos,Cash on Delivery,Delivered
+431,1231,2025-12-17,Face Moisturizer,Beauty,1,155.06,5,147.31,Lagos,Card,Delivered
+244,1009,2025-12-17,Coffee Maker,Home & Kitchen,4,10.6,10,38.16,Kano,Wallet,Delivered
+53,1192,2025-12-18,Coffee Maker,Sports,2,98.65,15,167.7,Ibadan,Card,Delivered
+975,1201,2025-12-18,Coffee Maker,Electronics,1,264.58,0,264.58,Lagos,Cash on Delivery,Cancelled
+814,1139,2025-12-20,Cotton T-Shirt,Sports,2,12.26,10,22.07,Port Harcourt,Wallet,Shipped
+924,1170,2025-12-20,Yoga Mat,Electronics,1,199.31,10,179.38,Ibadan,Card,Delivered
+422,1250,2025-12-21,Coffee Maker,Beauty,4,424.44,15,1443.1,Kano,Wallet,Delivered
+94,1112,2025-12-21,Running Shoes,Clothing,2,303.25,5,576.17,Abuja,Wallet,Delivered
+794,1065,2025-12-22,Wireless Headphones,Home & Kitchen,5,167.15,15,710.39,Lagos,Card,Delivered
+649,1074,2025-12-22,Cotton T-Shirt,Books,5,250.72,20,1002.88,Port Harcourt,Wallet,Delivered
+998,1205,2025-12-24,Coffee Maker,Clothing,2,319.22,20,510.75,Port Harcourt,Bank Transfer,Processing
+650,1066,2025-12-24,Python Programming Book,Sports,5,447.59,15,1902.26,Abuja,Bank Transfer,Delivered
+721,1144,2025-12-24,Face Moisturizer,Electronics,1,10.52,15,8.94,Kano,Wallet,Shipped
+784,1190,2025-12-25,Python Programming Book,Books,1,320.24,15,272.2,Kano,Bank Transfer,Processing
+588,1077,2025-12-27,Running Shoes,Electronics,1,383.67,15,326.12,Ibadan,Wallet,Delivered
+388,1015,2025-12-27,Python Programming Book,Books,5,74.24,15,315.52,Port Harcourt,Wallet,Delivered
+790,1149,2025-12-27,Yoga Mat,Beauty,1,288.29,5,273.88,Abuja,Cash on Delivery,Delivered
+882,1250,2025-12-27,Laptop Stand,Electronics,5,27.59,5,131.05,Lagos,Wallet,Delivered
+481,1117,2025-12-28,Python Programming Book,Books,2,494.42,15,840.51,Kano,Cash on Delivery,Delivered
+499,1062,2025-12-28,Coffee Maker,Books,5,496.75,0,2483.75,Kano,Wallet,Delivered
+436,1233,2025-12-28,Wireless Headphones,Sports,1,111.34,15,94.64,Lagos,Cash on Delivery,Delivered
+540,1218,2025-12-28,Smart Watch,Books,1,71.65,20,57.32,Kano,Cash on Delivery,Delivered
+887,1173,2025-12-28,Face Moisturizer,Home & Kitchen,1,355.84,0,355.84,Kano,Cash on Delivery,Delivered
+261,1057,2025-12-29,Smart Watch,Home & Kitchen,4,358.66,10,1291.18,Kano,Bank Transfer,Shipped
+285,1031,2025-12-29,Running Shoes,Electronics,3,492.48,10,1329.7,Kano,Card,Delivered
+113,1038,2025-12-29,Running Shoes,Beauty,3,485.21,0,1455.63,Lagos,Wallet,Shipped
+302,1165,2025-12-29,Wireless Headphones,Home & Kitchen,5,165.41,5,785.7,Abuja,Wallet,Delivered
+939,1074,2025-12-29,Yoga Mat,Electronics,3,468.73,15,1195.26,Port Harcourt,Cash on Delivery,Shipped
+140,1127,2025-12-30,Running Shoes,Home & Kitchen,3,434.07,10,1171.99,Lagos,Cash on Delivery,Processing
+808,1224,2025-12-30,Bluetooth Speaker,Books,1,337.78,0,337.78,Abuja,Wallet,Processing
+39,1077,2025-12-30,Running Shoes,Sports,2,91.29,5,173.45,Abuja,Wallet,Processing
+602,1238,2025-12-31,Bluetooth Speaker,Electronics,4,174.7,15,593.98,Ibadan,Bank Transfer,Delivered
+842,1031,2025-12-31,Face Moisturizer,Home & Kitchen,4,407.37,10,1466.53,Abuja,Bank Transfer,Delivered
