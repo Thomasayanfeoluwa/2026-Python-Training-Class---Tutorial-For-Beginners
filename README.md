@@ -1,1 +1,1 @@
-# 2026-Project-building-journey
+# 2026-Project-Building-Class-Journey-For-Beginners
