@@ -47,7 +47,7 @@ CREATE TABLE products (
     product_description_lenght INTEGER,
     product_photos_qty INTEGER,
     product_weight_g INTEGER,
-    product_lenght_cm INTEGER,
+    product_length_cm INTEGER,
     product_height_cm INTEGER,
     product_width_cm INTEGER
 );
@@ -131,8 +131,11 @@ CREATE TABLE order_payments (
 -- ============================================================
 
 CREATE TABLE order_reviews (
-    review_id TEXT PRIMARY KEY,
+    review_record_id INTEGER PRIMARY KEY AUTOINCREMENT,
+
+    review_id TEXT NOT NULL,
     order_id TEXT NOT NULL,
+
     review_score INTEGER,
     review_comment_title TEXT,
     review_comment_message TEXT,
