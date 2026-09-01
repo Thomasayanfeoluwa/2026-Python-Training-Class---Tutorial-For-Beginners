@@ -89,4 +89,3 @@ df = run_sql("""
 """)
 
 print(df)
-```
